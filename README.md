@@ -4,6 +4,8 @@
 
 IT Support Analytics Hub is a Streamlit-based office productivity demo that simulates weekly L2 Support Report automation using Jira-style ticket data and FTE workload data.
 
+🚀 Live Demo: https://it-support-analytics-app-ewmfht5mzlvkmcsrphkshv.streamlit.app/
+
 > This project uses simulated data only. It does not contain any real company, employee, customer, email, system URL, or confidential operational information.
 
 ## Project Background
