@@ -1,0 +1,9 @@
+system_name,system_owner,business_domain,criticality,support_level
+SAP,System Owner 01,ERP Operations,Critical,L2
+MES,System Owner 02,Manufacturing Execution,Critical,L2
+WMS,System Owner 03,Warehouse Operations,High,L2
+AP Portal,System Owner 04,Supplier Collaboration,Medium,L2
+HR System,System Owner 05,People Operations,Medium,L2
+Finance System,System Owner 06,Finance Operations,High,L2
+Quality System,System Owner 07,Quality Management,High,L2
+API Gateway,System Owner 08,Integration Platform,Critical,L2/L3

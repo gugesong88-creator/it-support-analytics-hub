@@ -1,0 +1,881 @@
+ticket_id,created_at,resolved_at,week,issue_type,priority,status,system_name,entity,request_channel,assigned_to,resolution_owner,time_spent_hours,sla_target_hours,change_type
+TCK-00001,2026-05-12 19:02:00,2026-05-13 00:02:00,2026-W19,Service Request,P3,Resolved,SAP,ATD,Email,Engineer 16,Engineer 16,7.49,72,NA
+TCK-00002,2026-05-23 11:08:00,2026-05-25 09:08:00,2026-W20,Hot Fix,P2,Closed,WMS,ATD,Teams,Engineer 07,Engineer 07,5.71,24,NA
+TCK-00003,2026-06-04 02:00:00,,2026-W22,Change Request,P3,Open,Quality System,ATD,Email,Engineer 02,Engineer 11,9.38,72,Normal Change
+TCK-00004,2026-06-03 13:00:00,,2026-W22,Incident,P1,Open,SAP,AC,Monitoring,Engineer 01,Engineer 10,1.53,8,NA
+TCK-00005,2026-05-14 15:07:00,2026-05-17 01:07:00,2026-W19,Service Request,P2,Resolved,AP Portal,ATD II,Phone,Engineer 16,Engineer 16,2.34,24,NA
+TCK-00006,2026-05-09 08:26:00,2026-05-10 10:26:00,2026-W18,Incident,P3,Closed,MES,ATD II,Email,Engineer 11,Engineer 11,10.84,72,NA
+TCK-00007,2026-03-30 08:35:00,2026-04-01 07:35:00,2026-W13,Hot Fix,P2,Closed,MES,ATD II,Monitoring,Engineer 07,Engineer 07,6.96,24,NA
+TCK-00008,2026-05-09 14:11:00,2026-05-10 00:11:00,2026-W18,Change Request,P1,Resolved,HR System,ATJ,Teams,Engineer 05,Engineer 05,0.65,8,Normal Change
+TCK-00009,2026-04-08 19:35:00,2026-04-13 15:35:00,2026-W14,Incident,P3,Closed,SAP,ATJ,Service Portal,Engineer 04,Engineer 04,4.54,72,NA
+TCK-00010,2026-04-21 10:11:00,2026-04-23 10:11:00,2026-W16,Incident,P2,Resolved,WMS,AC,Email,Engineer 13,Engineer 13,5.25,24,NA
+TCK-00011,2026-04-08 08:16:00,2026-04-14 06:16:00,2026-W14,Incident,P4,Resolved,SAP,ATD,Monitoring,Engineer 12,Engineer 12,17.67,120,NA
+TCK-00012,2026-05-31 13:56:00,2026-06-02 06:56:00,2026-W22,Incident,P2,Closed,MES,ATD,Service Portal,Engineer 02,Engineer 02,4.26,24,NA
+TCK-00013,2026-03-22 19:27:00,2026-03-28 10:27:00,2026-W12,Change Request,P4,Resolved,WMS,ATJ,Monitoring,Engineer 15,Engineer 15,28.79,120,Standard Change
+TCK-00014,2026-06-01 07:00:00,,2026-W22,Service Request,P3,In Progress,HR System,ATD,Teams,Engineer 18,Engineer 07,14.7,72,NA
+TCK-00015,2026-03-29 17:11:00,2026-04-02 15:11:00,2026-W13,Incident,P3,Closed,WMS,ATJ,Teams,Engineer 12,Engineer 12,7.25,72,NA
+TCK-00016,2026-06-04 09:00:00,,2026-W22,Incident,P3,In Progress,WMS,ATJ,Monitoring,Engineer 08,Engineer 11,7.5,72,NA
+TCK-00017,2026-04-25 15:09:00,2026-04-29 18:09:00,2026-W16,Incident,P3,Closed,WMS,ATD,Monitoring,Engineer 03,Engineer 03,14.58,72,NA
+TCK-00018,2026-03-18 19:04:00,2026-03-24 04:04:00,2026-W11,Change Request,P3,Closed,Quality System,AC,Monitoring,Engineer 07,Engineer 07,13.61,72,Standard Change
+TCK-00019,2026-05-26 15:16:00,2026-06-01 03:16:00,2026-W21,Incident,P4,Resolved,SAP,ATD,Phone,Engineer 13,Engineer 13,0.25,120,NA
+TCK-00020,2026-05-13 17:02:00,2026-05-15 07:02:00,2026-W19,Incident,P2,Closed,Quality System,ATD,Teams,Engineer 08,Engineer 08,2.87,24,NA
+TCK-00021,2026-04-05 19:05:00,2026-04-06 20:05:00,2026-W14,Incident,P3,Closed,API Gateway,ATD,Monitoring,Engineer 18,Engineer 18,12.07,72,NA
+TCK-00022,2026-06-02 22:00:00,,2026-W22,Service Request,P3,In Progress,HR System,ATJ,Service Portal,Engineer 17,Engineer 16,15.52,72,NA
+TCK-00023,2026-05-31 14:00:00,,2026-W22,Change Request,P2,Pending,MES,ATD II,Phone,Engineer 03,Engineer 10,4.17,24,Normal Change
+TCK-00024,2026-06-02 11:45:00,2026-06-03 11:45:00,2026-W22,Hot Fix,P2,Closed,AP Portal,ATJ,Phone,Engineer 04,Engineer 04,2.49,24,NA
+TCK-00025,2026-05-29 21:00:00,,2026-W21,Change Request,P4,In Progress,SAP,ATD II,Monitoring,Engineer 18,Engineer 12,7.79,120,Normal Change
+TCK-00026,2026-03-16 13:41:00,2026-03-22 06:41:00,2026-W11,Service Request,P4,Closed,SAP,ATJ,Phone,Engineer 06,Engineer 06,14.96,120,NA
+TCK-00027,2026-04-27 16:15:00,2026-05-03 14:15:00,2026-W17,Incident,P3,Closed,MES,ATD,Phone,Engineer 04,Engineer 04,10.44,72,NA
+TCK-00028,2026-05-31 06:00:00,,2026-W22,Service Request,P3,In Progress,SAP,ATJ,Phone,Engineer 17,Engineer 11,16.02,72,NA
+TCK-00029,2026-05-18 19:51:00,2026-05-19 20:51:00,2026-W20,Service Request,P3,Resolved,SAP,ATD II,Monitoring,Engineer 17,Engineer 17,11.31,72,NA
+TCK-00030,2026-06-03 20:00:00,,2026-W22,Incident,P3,Pending,MES,ATD,Service Portal,Engineer 01,Engineer 18,10.98,72,NA
+TCK-00031,2026-06-04 06:00:00,,2026-W22,Change Request,P3,Open,MES,AC,Service Portal,Engineer 17,Engineer 07,8.84,72,Normal Change
+TCK-00032,2026-06-01 13:00:00,,2026-W22,Change Request,P3,Pending,AP Portal,ATD,Email,Engineer 13,Engineer 08,4.75,72,Emergency Change
+TCK-00033,2026-04-18 16:20:00,2026-04-20 03:20:00,2026-W15,Incident,P4,Closed,WMS,ATD,Email,Engineer 12,Engineer 12,24.02,120,NA
+TCK-00034,2026-06-02 16:00:00,,2026-W22,Incident,P3,Pending,WMS,ATJ,Service Portal,Engineer 07,Engineer 16,11.96,72,NA
+TCK-00035,2026-06-03 23:00:00,,2026-W22,Incident,P2,In Progress,API Gateway,ATJ,Teams,Engineer 08,Engineer 08,2.59,24,NA
+TCK-00036,2026-04-07 12:20:00,2026-04-09 21:20:00,2026-W14,Incident,P1,Resolved,Quality System,ATD,Email,Engineer 11,Engineer 11,2.15,8,NA
+TCK-00037,2026-04-10 13:31:00,2026-04-11 04:31:00,2026-W14,Service Request,P4,Cancelled,WMS,ATD,Monitoring,Engineer 18,Engineer 04,8.84,120,NA
+TCK-00038,2026-05-25 16:16:00,2026-05-30 03:16:00,2026-W21,Change Request,P3,Closed,MES,ATD,Phone,Engineer 15,Engineer 15,16.0,72,Normal Change
+TCK-00039,2026-06-02 21:00:00,,2026-W22,Incident,P3,Open,MES,ATJ,Email,Engineer 08,Engineer 11,19.94,72,NA
+TCK-00040,2026-04-27 18:39:00,2026-04-29 08:39:00,2026-W17,Incident,P2,Resolved,Finance System,ATD II,Service Portal,Engineer 06,Engineer 06,2.46,24,NA
+TCK-00041,2026-05-16 10:35:00,2026-05-18 06:35:00,2026-W19,Change Request,P4,Cancelled,Quality System,AC,Teams,Engineer 10,Engineer 02,19.56,120,Normal Change
+TCK-00042,2026-05-29 23:00:00,,2026-W21,Service Request,P4,Pending,API Gateway,ATJ,Service Portal,Engineer 11,Engineer 15,19.3,120,NA
+TCK-00043,2026-05-29 17:00:00,,2026-W21,Incident,P4,Open,MES,ATD,Monitoring,Engineer 11,Engineer 05,31.28,120,NA
+TCK-00044,2026-05-29 10:00:00,,2026-W21,Change Request,P4,Open,API Gateway,ATD II,Monitoring,Engineer 03,Engineer 13,23.32,120,Normal Change
+TCK-00045,2026-05-27 01:00:00,,2026-W21,Incident,P3,Pending,MES,ATD,Service Portal,Engineer 08,Engineer 09,9.27,72,NA
+TCK-00046,2026-05-28 12:00:00,,2026-W21,Service Request,P4,Pending,MES,ATD,Phone,Engineer 09,Engineer 01,15.53,120,NA
+TCK-00047,2026-05-25 14:06:00,2026-05-27 12:06:00,2026-W21,Change Request,P3,Closed,MES,AC,Email,Engineer 12,Engineer 12,9.22,72,Normal Change
+TCK-00048,2026-04-17 18:45:00,2026-04-20 09:45:00,2026-W15,Hot Fix,P4,Resolved,HR System,ATJ,Monitoring,Engineer 02,Engineer 02,10.21,120,NA
+TCK-00049,2026-05-03 15:02:00,2026-05-09 15:02:00,2026-W18,Change Request,P4,Closed,AP Portal,ATD,Service Portal,Engineer 16,Engineer 16,17.01,120,Standard Change
+TCK-00050,2026-05-08 09:05:00,2026-05-09 11:05:00,2026-W18,Service Request,P1,Closed,MES,AC,Teams,Engineer 12,Engineer 12,1.68,8,NA
+TCK-00051,2026-04-03 19:10:00,2026-04-07 03:10:00,2026-W13,Change Request,P3,Resolved,SAP,ATD,Service Portal,Engineer 11,Engineer 11,14.05,72,Normal Change
+TCK-00052,2026-06-03 19:00:00,,2026-W22,Incident,P4,Open,MES,ATJ,Teams,Engineer 13,Engineer 09,1.88,120,NA
+TCK-00053,2026-05-28 10:23:00,2026-05-30 21:23:00,2026-W21,Incident,P3,Closed,MES,AC,Email,Engineer 09,Engineer 09,14.18,72,NA
+TCK-00054,2026-04-10 16:26:00,2026-04-13 21:26:00,2026-W14,Incident,P3,Resolved,AP Portal,ATD,Monitoring,Engineer 05,Engineer 05,0.25,72,NA
+TCK-00055,2026-06-04 11:00:00,,2026-W22,Incident,P3,In Progress,WMS,ATD II,Phone,Engineer 18,Engineer 03,8.28,72,NA
+TCK-00056,2026-06-04 04:00:00,,2026-W22,Incident,P2,In Progress,AP Portal,ATJ,Teams,Engineer 17,Engineer 04,1.7,24,NA
+TCK-00057,2026-03-17 15:53:00,2026-03-18 18:53:00,2026-W11,Change Request,P3,Closed,WMS,ATD,Email,Engineer 16,Engineer 16,14.38,72,Emergency Change
+TCK-00058,2026-06-03 10:00:00,,2026-W22,Incident,P1,Open,SAP,AC,Email,Engineer 03,Engineer 05,1.58,8,NA
+TCK-00059,2026-06-03 23:00:00,,2026-W22,Change Request,P1,Pending,Quality System,ATD,Phone,Engineer 07,Engineer 10,1.4,8,Normal Change
+TCK-00060,2026-06-01 06:00:00,,2026-W22,Incident,P3,In Progress,MES,ATD II,Service Portal,Engineer 17,Engineer 14,9.62,72,NA
+TCK-00061,2026-04-05 12:25:00,2026-04-08 13:25:00,2026-W14,Incident,P3,Closed,Quality System,ATJ,Service Portal,Engineer 08,Engineer 08,8.22,72,NA
+TCK-00062,2026-05-16 10:09:00,2026-05-17 19:09:00,2026-W19,Incident,P3,Closed,SAP,AC,Service Portal,Engineer 09,Engineer 09,11.89,72,NA
+TCK-00063,2026-05-24 18:00:00,,2026-W21,Incident,P4,In Progress,API Gateway,ATD,Phone,Engineer 06,Engineer 01,22.34,120,NA
+TCK-00064,2026-06-04 02:00:00,,2026-W22,Change Request,P3,Open,Finance System,ATD,Email,Engineer 02,Engineer 10,8.95,72,Standard Change
+TCK-00065,2026-05-31 22:00:00,,2026-W22,Incident,P4,Open,Quality System,ATD II,Service Portal,Engineer 13,Engineer 04,15.53,120,NA
+TCK-00066,2026-04-26 10:01:00,2026-04-27 06:01:00,2026-W17,Change Request,P3,Resolved,WMS,ATJ,Email,Engineer 08,Engineer 08,11.8,72,Normal Change
+TCK-00067,2026-03-24 14:29:00,2026-03-24 20:29:00,2026-W12,Incident,P2,Resolved,WMS,ATD II,Service Portal,Engineer 10,Engineer 10,1.81,24,NA
+TCK-00068,2026-03-21 14:40:00,2026-03-23 07:40:00,2026-W11,Change Request,P3,Closed,Quality System,ATD II,Teams,Engineer 11,Engineer 11,4.38,72,Normal Change
+TCK-00069,2026-05-29 13:00:00,,2026-W21,Service Request,P2,Pending,AP Portal,ATD,Phone,Engineer 02,Engineer 15,2.89,24,NA
+TCK-00070,2026-06-03 15:00:00,,2026-W22,Incident,P3,In Progress,MES,ATD,Phone,Engineer 15,Engineer 03,15.94,72,NA
+TCK-00071,2026-06-02 14:00:00,,2026-W22,Service Request,P2,In Progress,SAP,AC,Teams,Engineer 08,Engineer 09,3.12,24,NA
+TCK-00072,2026-04-12 14:52:00,2026-04-17 14:52:00,2026-W15,Incident,P3,Resolved,HR System,ATD,Phone,Engineer 18,Engineer 18,2.17,72,NA
+TCK-00073,2026-04-11 13:06:00,2026-04-17 13:06:00,2026-W14,Incident,P4,Resolved,MES,ATJ,Phone,Engineer 09,Engineer 09,9.55,120,NA
+TCK-00074,2026-06-03 00:00:00,,2026-W22,Service Request,P3,Pending,AP Portal,AC,Teams,Engineer 10,Engineer 18,14.42,72,NA
+TCK-00075,2026-06-01 16:00:00,,2026-W22,Incident,P3,Pending,HR System,ATD II,Teams,Engineer 17,Engineer 15,5.65,72,NA
+TCK-00076,2026-06-04 13:00:00,,2026-W22,Service Request,P3,In Progress,Quality System,ATD,Service Portal,Engineer 04,Engineer 15,12.95,72,NA
+TCK-00077,2026-04-04 17:10:00,2026-04-07 17:10:00,2026-W13,Incident,P4,Cancelled,Quality System,ATD,Teams,Engineer 14,Engineer 10,18.26,120,NA
+TCK-00078,2026-06-02 08:19:00,2026-06-03 23:19:00,2026-W22,Incident,P3,Resolved,API Gateway,ATD II,Teams,Engineer 15,Engineer 15,9.32,72,NA
+TCK-00079,2026-06-04 08:00:00,,2026-W22,Service Request,P2,Pending,WMS,ATD II,Teams,Engineer 08,Engineer 01,3.42,24,NA
+TCK-00080,2026-04-07 08:51:00,2026-04-11 17:51:00,2026-W14,Incident,P3,Resolved,MES,ATD,Monitoring,Engineer 13,Engineer 13,15.58,72,NA
+TCK-00081,2026-03-23 16:18:00,2026-04-01 12:18:00,2026-W12,Incident,P4,Resolved,Quality System,ATJ,Monitoring,Engineer 05,Engineer 05,17.07,120,NA
+TCK-00082,2026-06-01 08:00:00,,2026-W22,Service Request,P4,Open,MES,ATJ,Monitoring,Engineer 15,Engineer 15,22.58,120,NA
+TCK-00083,2026-06-02 09:00:00,,2026-W22,Incident,P2,In Progress,API Gateway,ATJ,Email,Engineer 16,Engineer 08,3.22,24,NA
+TCK-00084,2026-05-20 11:52:00,2026-05-23 14:52:00,2026-W20,Service Request,P3,Resolved,Quality System,ATD,Teams,Engineer 16,Engineer 16,6.34,72,NA
+TCK-00085,2026-04-22 10:33:00,2026-04-26 20:33:00,2026-W16,Change Request,P4,Resolved,Finance System,ATD II,Service Portal,Engineer 07,Engineer 07,4.17,120,Normal Change
+TCK-00086,2026-04-30 19:03:00,2026-05-01 03:03:00,2026-W17,Incident,P3,Closed,MES,AC,Monitoring,Engineer 14,Engineer 14,19.66,72,NA
+TCK-00087,2026-04-02 18:12:00,2026-04-02 23:12:00,2026-W13,Incident,P2,Closed,MES,ATD II,Service Portal,Engineer 01,Engineer 01,4.86,24,NA
+TCK-00088,2026-05-30 17:00:00,,2026-W21,Incident,P4,Pending,WMS,AC,Phone,Engineer 14,Engineer 13,7.62,120,NA
+TCK-00089,2026-05-20 16:54:00,2026-05-22 21:54:00,2026-W20,Incident,P3,Closed,API Gateway,AC,Monitoring,Engineer 11,Engineer 11,13.92,72,NA
+TCK-00090,2026-06-01 16:11:00,,2026-W22,Incident,P4,Pending,MES,ATD,Monitoring,Engineer 03,Engineer 10,9.68,120,NA
+TCK-00091,2026-05-15 18:59:00,2026-05-16 01:59:00,2026-W19,Incident,P1,Closed,API Gateway,ATD,Email,Engineer 14,Engineer 14,2.07,8,NA
+TCK-00092,2026-05-30 00:00:00,,2026-W21,Service Request,P4,Pending,MES,ATD,Monitoring,Engineer 01,Engineer 02,8.43,120,NA
+TCK-00093,2026-04-15 12:01:00,2026-04-16 22:01:00,2026-W15,Incident,P2,Closed,SAP,ATJ,Service Portal,Engineer 07,Engineer 07,4.1,24,NA
+TCK-00094,2026-05-28 13:59:00,2026-06-02 11:59:00,2026-W21,Incident,P4,Resolved,API Gateway,AC,Email,Engineer 13,Engineer 13,19.06,120,NA
+TCK-00095,2026-06-02 12:00:00,,2026-W22,Hot Fix,P3,In Progress,SAP,ATD,Service Portal,Engineer 17,Engineer 18,1.63,72,NA
+TCK-00096,2026-04-03 13:08:00,2026-04-04 16:08:00,2026-W13,Service Request,P3,Closed,AP Portal,ATJ,Phone,Engineer 13,Engineer 13,10.57,72,NA
+TCK-00097,2026-06-01 20:00:00,,2026-W22,Service Request,P3,Open,MES,ATD II,Service Portal,Engineer 07,Engineer 15,5.62,72,NA
+TCK-00098,2026-05-12 13:29:00,2026-05-16 01:29:00,2026-W19,Incident,P4,Cancelled,SAP,ATD,Service Portal,Engineer 08,Engineer 10,9.49,120,NA
+TCK-00099,2026-06-04 13:00:00,,2026-W22,Incident,P4,In Progress,WMS,ATD II,Phone,Engineer 05,Engineer 11,10.43,120,NA
+TCK-00100,2026-04-24 17:22:00,2026-04-26 13:22:00,2026-W16,Change Request,P1,Resolved,Finance System,ATD II,Email,Engineer 13,Engineer 13,1.25,8,Normal Change
+TCK-00101,2026-04-29 11:49:00,2026-05-05 13:49:00,2026-W17,Incident,P4,Resolved,Finance System,AC,Monitoring,Engineer 17,Engineer 17,17.88,120,NA
+TCK-00102,2026-06-02 13:00:00,,2026-W22,Incident,P2,Open,MES,ATJ,Monitoring,Engineer 11,Engineer 08,2.86,24,NA
+TCK-00103,2026-03-24 12:22:00,2026-03-25 19:22:00,2026-W12,Incident,P4,Resolved,WMS,ATD II,Email,Engineer 09,Engineer 09,25.87,120,NA
+TCK-00104,2026-04-17 15:49:00,2026-04-19 16:49:00,2026-W15,Service Request,P3,Closed,SAP,ATJ,Phone,Engineer 13,Engineer 13,6.62,72,NA
+TCK-00105,2026-05-07 09:15:00,2026-05-10 15:15:00,2026-W18,Service Request,P3,Resolved,AP Portal,ATJ,Phone,Engineer 16,Engineer 16,11.71,72,NA
+TCK-00106,2026-05-30 22:00:00,,2026-W21,Change Request,P4,In Progress,API Gateway,ATD,Monitoring,Engineer 08,Engineer 10,15.17,120,Normal Change
+TCK-00107,2026-06-03 23:00:00,,2026-W22,Service Request,P3,Pending,Finance System,ATD II,Teams,Engineer 09,Engineer 05,0.25,72,NA
+TCK-00108,2026-05-31 17:00:00,,2026-W22,Incident,P3,Pending,API Gateway,ATJ,Phone,Engineer 17,Engineer 07,6.74,72,NA
+TCK-00109,2026-04-02 09:29:00,2026-04-05 07:29:00,2026-W13,Service Request,P3,Closed,SAP,AC,Service Portal,Engineer 14,Engineer 14,7.57,72,NA
+TCK-00110,2026-03-24 12:06:00,2026-03-27 14:06:00,2026-W12,Service Request,P3,Cancelled,MES,ATD,Teams,Engineer 01,Engineer 12,8.52,72,NA
+TCK-00111,2026-03-18 09:13:00,2026-03-19 00:13:00,2026-W11,Incident,P3,Closed,SAP,ATJ,Email,Engineer 07,Engineer 07,11.81,72,NA
+TCK-00112,2026-06-01 18:00:00,,2026-W22,Incident,P4,Open,MES,AC,Teams,Engineer 01,Engineer 12,17.64,120,NA
+TCK-00113,2026-05-31 09:00:00,,2026-W22,Change Request,P3,Pending,SAP,ATD,Email,Engineer 17,Engineer 06,15.0,72,Emergency Change
+TCK-00114,2026-06-01 08:00:00,,2026-W22,Change Request,P3,In Progress,SAP,AC,Service Portal,Engineer 18,Engineer 06,1.7,72,Emergency Change
+TCK-00115,2026-05-28 19:00:00,,2026-W21,Incident,P2,Pending,AP Portal,ATD II,Service Portal,Engineer 17,Engineer 09,3.86,24,NA
+TCK-00116,2026-06-02 20:00:00,,2026-W22,Hot Fix,P1,In Progress,AP Portal,AC,Service Portal,Engineer 02,Engineer 04,0.78,8,NA
+TCK-00117,2026-05-27 17:00:00,,2026-W21,Incident,P3,Open,AP Portal,ATD,Monitoring,Engineer 16,Engineer 17,6.23,72,NA
+TCK-00118,2026-03-28 15:30:00,2026-03-30 16:30:00,2026-W12,Change Request,P3,Closed,SAP,ATD,Monitoring,Engineer 04,Engineer 04,8.35,72,Normal Change
+TCK-00119,2026-06-02 12:00:00,,2026-W22,Service Request,P3,In Progress,MES,ATJ,Phone,Engineer 07,Engineer 06,15.6,72,NA
+TCK-00120,2026-05-11 08:07:00,2026-05-17 04:07:00,2026-W19,Change Request,P4,Resolved,MES,ATJ,Monitoring,Engineer 02,Engineer 02,20.3,120,Emergency Change
+TCK-00121,2026-04-10 15:39:00,2026-04-12 20:39:00,2026-W14,Incident,P3,Closed,Finance System,ATD,Teams,Engineer 02,Engineer 02,16.72,72,NA
+TCK-00122,2026-06-04 11:00:00,,2026-W22,Incident,P4,Pending,AP Portal,ATD,Monitoring,Engineer 14,Engineer 13,30.88,120,NA
+TCK-00123,2026-05-31 05:00:00,,2026-W22,Hot Fix,P3,Pending,MES,ATD II,Email,Engineer 05,Engineer 15,10.22,72,NA
+TCK-00124,2026-06-04 02:00:00,,2026-W22,Hot Fix,P2,In Progress,API Gateway,ATJ,Service Portal,Engineer 15,Engineer 09,5.99,24,NA
+TCK-00125,2026-04-01 13:19:00,2026-04-06 09:19:00,2026-W13,Change Request,P4,Closed,MES,ATJ,Service Portal,Engineer 08,Engineer 08,20.21,120,Normal Change
+TCK-00126,2026-05-27 09:00:00,,2026-W21,Service Request,P3,In Progress,MES,ATD,Service Portal,Engineer 14,Engineer 02,10.62,72,NA
+TCK-00127,2026-03-20 12:11:00,2026-03-24 06:11:00,2026-W11,Service Request,P4,Resolved,API Gateway,ATD II,Email,Engineer 14,Engineer 14,22.99,120,NA
+TCK-00128,2026-06-04 02:00:00,,2026-W22,Incident,P3,Open,SAP,AC,Teams,Engineer 15,Engineer 08,5.81,72,NA
+TCK-00129,2026-04-24 12:45:00,2026-04-26 18:45:00,2026-W16,Incident,P2,Closed,SAP,AC,Phone,Engineer 12,Engineer 12,4.55,24,NA
+TCK-00130,2026-05-31 14:00:00,,2026-W22,Change Request,P3,In Progress,Finance System,ATD,Email,Engineer 08,Engineer 03,7.61,72,Emergency Change
+TCK-00131,2026-06-04 13:00:00,,2026-W22,Service Request,P3,In Progress,API Gateway,ATD,Phone,Engineer 09,Engineer 09,11.21,72,NA
+TCK-00132,2026-06-03 11:00:00,,2026-W22,Incident,P3,Open,AP Portal,ATD,Service Portal,Engineer 16,Engineer 04,12.58,72,NA
+TCK-00133,2026-06-01 15:00:00,,2026-W22,Service Request,P3,In Progress,SAP,ATD,Email,Engineer 17,Engineer 12,3.78,72,NA
+TCK-00134,2026-05-30 01:00:00,,2026-W21,Incident,P4,Pending,WMS,ATD II,Email,Engineer 14,Engineer 18,10.6,120,NA
+TCK-00135,2026-05-18 11:30:00,2026-05-22 04:30:00,2026-W20,Change Request,P2,Resolved,MES,AC,Email,Engineer 16,Engineer 16,4.71,24,Normal Change
+TCK-00136,2026-04-21 14:30:00,2026-04-22 22:30:00,2026-W16,Service Request,P2,Closed,MES,ATD II,Service Portal,Engineer 03,Engineer 03,2.93,24,NA
+TCK-00137,2026-05-14 08:51:00,2026-05-17 13:51:00,2026-W19,Service Request,P3,Closed,WMS,AC,Service Portal,Engineer 12,Engineer 12,5.04,72,NA
+TCK-00138,2026-05-28 10:00:00,,2026-W21,Incident,P4,Pending,Quality System,ATJ,Service Portal,Engineer 05,Engineer 17,9.06,120,NA
+TCK-00139,2026-06-04 11:33:00,,2026-W22,Change Request,P3,In Progress,AP Portal,ATD II,Monitoring,Engineer 05,Engineer 01,10.85,72,Standard Change
+TCK-00140,2026-05-03 17:31:00,2026-05-05 12:31:00,2026-W18,Service Request,P2,Resolved,SAP,ATJ,Monitoring,Engineer 13,Engineer 13,5.46,24,NA
+TCK-00141,2026-05-11 08:23:00,2026-05-12 17:23:00,2026-W19,Incident,P2,Closed,Quality System,AC,Phone,Engineer 11,Engineer 11,3.06,24,NA
+TCK-00142,2026-06-03 09:00:00,,2026-W22,Change Request,P1,In Progress,MES,AC,Service Portal,Engineer 09,Engineer 13,0.89,8,Normal Change
+TCK-00143,2026-05-28 19:26:00,2026-05-29 03:26:00,2026-W21,Change Request,P3,Closed,HR System,ATD II,Service Portal,Engineer 05,Engineer 05,13.75,72,Standard Change
+TCK-00144,2026-05-31 16:00:00,,2026-W22,Service Request,P3,Pending,WMS,ATJ,Teams,Engineer 17,Engineer 17,10.99,72,NA
+TCK-00145,2026-04-04 16:59:00,2026-04-05 10:59:00,2026-W13,Change Request,P1,Closed,MES,ATD,Service Portal,Engineer 11,Engineer 11,1.85,8,Normal Change
+TCK-00146,2026-03-19 08:21:00,2026-03-20 03:21:00,2026-W11,Incident,P1,Resolved,AP Portal,ATD,Monitoring,Engineer 06,Engineer 06,0.79,8,NA
+TCK-00147,2026-06-02 17:00:00,,2026-W22,Incident,P3,Open,HR System,AC,Phone,Engineer 08,Engineer 17,9.33,72,NA
+TCK-00148,2026-04-07 15:57:00,2026-04-08 15:57:00,2026-W14,Service Request,P2,Closed,API Gateway,AC,Monitoring,Engineer 18,Engineer 18,2.3,24,NA
+TCK-00149,2026-04-16 09:58:00,2026-04-17 14:58:00,2026-W15,Incident,P2,Closed,API Gateway,ATD II,Monitoring,Engineer 12,Engineer 12,5.33,24,NA
+TCK-00150,2026-05-23 17:33:00,2026-05-27 23:33:00,2026-W20,Service Request,P3,Resolved,API Gateway,AC,Service Portal,Engineer 07,Engineer 07,8.82,72,NA
+TCK-00151,2026-05-07 17:04:00,2026-05-08 21:04:00,2026-W18,Service Request,P3,Resolved,HR System,ATD,Phone,Engineer 13,Engineer 13,14.02,72,NA
+TCK-00152,2026-05-18 08:54:00,2026-05-19 06:54:00,2026-W20,Change Request,P4,Resolved,Finance System,ATD II,Phone,Engineer 06,Engineer 06,32.98,120,Normal Change
+TCK-00153,2026-05-31 00:00:00,,2026-W22,Service Request,P3,In Progress,WMS,ATJ,Service Portal,Engineer 03,Engineer 08,17.92,72,NA
+TCK-00154,2026-06-03 16:00:00,,2026-W22,Incident,P4,In Progress,MES,ATJ,Monitoring,Engineer 04,Engineer 05,14.0,120,NA
+TCK-00155,2026-06-02 06:00:00,,2026-W22,Service Request,P4,In Progress,API Gateway,ATD II,Service Portal,Engineer 07,Engineer 01,18.75,120,NA
+TCK-00156,2026-06-04 12:00:00,,2026-W22,Service Request,P3,In Progress,Finance System,AC,Service Portal,Engineer 08,Engineer 09,7.53,72,NA
+TCK-00157,2026-05-31 17:00:00,,2026-W22,Incident,P4,In Progress,MES,ATD II,Email,Engineer 04,Engineer 04,11.42,120,NA
+TCK-00158,2026-06-04 11:00:00,,2026-W22,Incident,P4,Pending,MES,ATD II,Phone,Engineer 07,Engineer 07,8.52,120,NA
+TCK-00159,2026-03-20 17:23:00,2026-03-24 09:23:00,2026-W11,Incident,P3,Closed,SAP,ATD,Email,Engineer 11,Engineer 11,12.47,72,NA
+TCK-00160,2026-05-20 17:13:00,2026-05-21 14:13:00,2026-W20,Incident,P3,Resolved,Finance System,ATD,Email,Engineer 13,Engineer 13,5.06,72,NA
+TCK-00161,2026-05-28 03:00:00,,2026-W21,Incident,P4,Pending,SAP,ATJ,Service Portal,Engineer 14,Engineer 09,12.86,120,NA
+TCK-00162,2026-05-22 18:25:00,2026-05-24 18:25:00,2026-W20,Change Request,P1,Resolved,MES,AC,Teams,Engineer 12,Engineer 12,1.07,8,Normal Change
+TCK-00163,2026-04-15 09:43:00,2026-04-17 03:43:00,2026-W15,Service Request,P2,Closed,HR System,AC,Teams,Engineer 13,Engineer 13,3.61,24,NA
+TCK-00164,2026-06-03 08:00:00,,2026-W22,Incident,P3,Pending,AP Portal,AC,Email,Engineer 08,Engineer 11,13.85,72,NA
+TCK-00165,2026-04-12 16:31:00,2026-04-14 21:31:00,2026-W15,Service Request,P1,Closed,SAP,ATJ,Phone,Engineer 07,Engineer 07,0.4,8,NA
+TCK-00166,2026-06-03 16:00:00,,2026-W22,Change Request,P1,Open,MES,AC,Monitoring,Engineer 15,Engineer 16,0.8,8,Normal Change
+TCK-00167,2026-04-14 16:49:00,2026-04-16 07:49:00,2026-W15,Service Request,P2,Resolved,WMS,ATJ,Phone,Engineer 08,Engineer 08,2.64,24,NA
+TCK-00168,2026-06-02 11:00:00,,2026-W22,Incident,P3,In Progress,Quality System,ATJ,Teams,Engineer 15,Engineer 13,22.46,72,NA
+TCK-00169,2026-03-27 12:37:00,2026-03-27 22:37:00,2026-W12,Service Request,P3,Closed,Quality System,ATJ,Service Portal,Engineer 08,Engineer 08,11.01,72,NA
+TCK-00170,2026-06-03 19:00:00,,2026-W22,Change Request,P2,Open,WMS,ATD,Monitoring,Engineer 07,Engineer 07,2.38,24,Normal Change
+TCK-00171,2026-03-18 17:22:00,2026-03-26 20:22:00,2026-W11,Change Request,P3,Resolved,HR System,ATD,Email,Engineer 11,Engineer 11,13.84,72,Normal Change
+TCK-00172,2026-03-18 10:27:00,2026-03-21 05:27:00,2026-W11,Service Request,P3,Closed,MES,ATJ,Email,Engineer 15,Engineer 15,10.66,72,NA
+TCK-00173,2026-06-02 12:00:00,,2026-W22,Incident,P2,Pending,SAP,ATD II,Teams,Engineer 04,Engineer 12,3.1,24,NA
+TCK-00174,2026-04-05 16:44:00,2026-04-08 06:44:00,2026-W14,Service Request,P3,Resolved,Finance System,ATD,Teams,Engineer 12,Engineer 12,11.51,72,NA
+TCK-00175,2026-05-01 12:22:00,2026-05-02 02:22:00,2026-W17,Incident,P2,Resolved,HR System,ATD II,Service Portal,Engineer 11,Engineer 11,2.06,24,NA
+TCK-00176,2026-06-03 11:00:00,,2026-W22,Incident,P3,In Progress,SAP,ATJ,Teams,Engineer 18,Engineer 05,5.66,72,NA
+TCK-00177,2026-05-19 17:02:00,2026-05-23 16:02:00,2026-W20,Service Request,P3,Closed,API Gateway,ATD II,Teams,Engineer 10,Engineer 10,12.31,72,NA
+TCK-00178,2026-06-03 17:00:00,,2026-W22,Change Request,P3,Pending,AP Portal,ATJ,Email,Engineer 14,Engineer 18,17.56,72,Standard Change
+TCK-00179,2026-05-31 11:00:00,,2026-W22,Incident,P3,Open,AP Portal,AC,Monitoring,Engineer 11,Engineer 18,11.35,72,NA
+TCK-00180,2026-04-07 10:36:00,2026-04-11 15:36:00,2026-W14,Incident,P3,Resolved,API Gateway,ATJ,Phone,Engineer 05,Engineer 05,0.25,72,NA
+TCK-00181,2026-03-17 15:35:00,2026-03-18 18:35:00,2026-W11,Change Request,P3,Resolved,HR System,ATD II,Email,Engineer 01,Engineer 01,9.75,72,Normal Change
+TCK-00182,2026-05-30 11:39:00,2026-06-01 09:39:00,2026-W21,Incident,P4,Closed,SAP,ATD II,Service Portal,Engineer 04,Engineer 04,8.9,120,NA
+TCK-00183,2026-06-03 03:00:00,,2026-W22,Incident,P4,Open,MES,ATD II,Monitoring,Engineer 06,Engineer 11,12.37,120,NA
+TCK-00184,2026-05-31 02:00:00,,2026-W22,Hot Fix,P4,Pending,Finance System,ATJ,Phone,Engineer 09,Engineer 15,9.62,120,NA
+TCK-00185,2026-04-12 11:02:00,2026-04-16 04:02:00,2026-W15,Incident,P3,Resolved,MES,ATD,Monitoring,Engineer 05,Engineer 05,9.93,72,NA
+TCK-00186,2026-06-03 00:00:00,,2026-W22,Incident,P1,Pending,API Gateway,ATJ,Teams,Engineer 12,Engineer 16,0.82,8,NA
+TCK-00187,2026-05-05 13:31:00,2026-05-08 09:31:00,2026-W18,Incident,P4,Closed,MES,ATD,Phone,Engineer 07,Engineer 07,25.88,120,NA
+TCK-00188,2026-05-12 12:45:00,2026-05-14 03:45:00,2026-W19,Incident,P3,Closed,API Gateway,ATJ,Phone,Engineer 01,Engineer 01,12.12,72,NA
+TCK-00189,2026-06-04 13:00:00,,2026-W22,Incident,P3,In Progress,SAP,ATD,Monitoring,Engineer 16,Engineer 11,7.75,72,NA
+TCK-00190,2026-06-04 13:00:00,,2026-W22,Service Request,P1,In Progress,Quality System,AC,Phone,Engineer 10,Engineer 13,0.98,8,NA
+TCK-00191,2026-05-05 14:38:00,2026-05-07 23:38:00,2026-W18,Service Request,P2,Closed,SAP,ATJ,Phone,Engineer 02,Engineer 02,1.17,24,NA
+TCK-00192,2026-03-26 12:50:00,2026-03-29 07:50:00,2026-W12,Incident,P3,Closed,SAP,ATD,Phone,Engineer 17,Engineer 17,3.79,72,NA
+TCK-00193,2026-03-21 16:40:00,2026-03-23 07:40:00,2026-W11,Service Request,P3,Resolved,AP Portal,AC,Teams,Engineer 03,Engineer 03,17.4,72,NA
+TCK-00194,2026-05-19 19:05:00,2026-05-20 14:05:00,2026-W20,Service Request,P4,Resolved,SAP,AC,Teams,Engineer 15,Engineer 15,12.07,120,NA
+TCK-00195,2026-05-28 17:46:00,2026-05-30 11:46:00,2026-W21,Service Request,P3,Closed,Finance System,ATJ,Monitoring,Engineer 17,Engineer 17,0.25,72,NA
+TCK-00196,2026-06-02 09:00:00,,2026-W22,Incident,P4,In Progress,WMS,ATJ,Service Portal,Engineer 11,Engineer 03,13.39,120,NA
+TCK-00197,2026-04-12 09:22:00,2026-04-15 23:22:00,2026-W15,Incident,P3,Closed,AP Portal,ATJ,Phone,Engineer 17,Engineer 17,2.94,72,NA
+TCK-00198,2026-05-22 17:04:00,2026-05-25 13:04:00,2026-W20,Service Request,P1,Closed,MES,ATD II,Teams,Engineer 18,Engineer 18,1.01,8,NA
+TCK-00199,2026-06-02 15:00:00,,2026-W22,Incident,P2,In Progress,API Gateway,ATJ,Service Portal,Engineer 10,Engineer 10,3.84,24,NA
+TCK-00200,2026-04-14 19:01:00,2026-04-17 20:01:00,2026-W15,Service Request,P3,Resolved,MES,AC,Teams,Engineer 12,Engineer 12,9.09,72,NA
+TCK-00201,2026-06-02 17:00:00,,2026-W22,Service Request,P3,Pending,SAP,ATD II,Email,Engineer 03,Engineer 18,2.73,72,NA
+TCK-00202,2026-04-02 15:27:00,2026-04-02 21:27:00,2026-W13,Service Request,P1,Closed,API Gateway,ATD II,Monitoring,Engineer 03,Engineer 03,1.69,8,NA
+TCK-00203,2026-04-10 16:10:00,2026-04-12 11:10:00,2026-W14,Incident,P2,Resolved,Quality System,ATJ,Monitoring,Engineer 15,Engineer 15,4.71,24,NA
+TCK-00204,2026-05-31 20:00:00,,2026-W22,Incident,P3,In Progress,HR System,ATD,Email,Engineer 07,Engineer 01,7.01,72,NA
+TCK-00205,2026-05-14 15:12:00,2026-05-16 14:12:00,2026-W19,Service Request,P3,Closed,AP Portal,ATD,Email,Engineer 11,Engineer 11,12.09,72,NA
+TCK-00206,2026-06-03 15:00:00,,2026-W22,Change Request,P3,In Progress,API Gateway,ATJ,Email,Engineer 12,Engineer 17,18.36,72,Standard Change
+TCK-00207,2026-05-29 15:00:00,,2026-W21,Service Request,P4,Pending,API Gateway,ATJ,Service Portal,Engineer 06,Engineer 01,14.29,120,NA
+TCK-00208,2026-06-02 01:00:00,,2026-W22,Incident,P4,In Progress,HR System,ATD II,Monitoring,Engineer 04,Engineer 07,9.55,120,NA
+TCK-00209,2026-05-29 19:00:00,,2026-W21,Incident,P4,In Progress,SAP,ATD,Email,Engineer 07,Engineer 10,18.07,120,NA
+TCK-00210,2026-06-02 20:00:00,,2026-W22,Change Request,P3,Pending,Finance System,ATD II,Service Portal,Engineer 13,Engineer 10,12.95,72,Standard Change
+TCK-00211,2026-04-06 16:34:00,2026-04-08 18:34:00,2026-W14,Service Request,P3,Closed,API Gateway,ATJ,Monitoring,Engineer 08,Engineer 08,12.86,72,NA
+TCK-00212,2026-06-02 01:00:00,,2026-W22,Service Request,P3,Open,Finance System,ATJ,Email,Engineer 15,Engineer 05,14.12,72,NA
+TCK-00213,2026-03-19 17:34:00,2026-03-22 00:34:00,2026-W11,Hot Fix,P3,Closed,WMS,ATD,Email,Engineer 16,Engineer 16,9.72,72,NA
+TCK-00214,2026-05-31 15:00:00,,2026-W22,Service Request,P3,Open,Quality System,ATD,Email,Engineer 01,Engineer 07,0.48,72,NA
+TCK-00215,2026-06-03 19:00:00,,2026-W22,Hot Fix,P3,Open,SAP,ATD II,Phone,Engineer 05,Engineer 02,14.6,72,NA
+TCK-00216,2026-05-29 13:00:00,,2026-W21,Incident,P4,In Progress,MES,ATJ,Email,Engineer 13,Engineer 11,14.21,120,NA
+TCK-00217,2026-06-04 03:00:00,,2026-W22,Service Request,P3,Pending,MES,ATD,Monitoring,Engineer 18,Engineer 14,17.21,72,NA
+TCK-00218,2026-06-04 13:00:00,,2026-W22,Service Request,P3,Open,SAP,AC,Teams,Engineer 15,Engineer 05,20.48,72,NA
+TCK-00219,2026-06-03 11:00:00,,2026-W22,Incident,P2,In Progress,HR System,AC,Phone,Engineer 10,Engineer 06,2.26,24,NA
+TCK-00220,2026-03-31 11:56:00,2026-04-01 19:56:00,2026-W13,Hot Fix,P3,Resolved,AP Portal,ATD,Email,Engineer 18,Engineer 18,12.38,72,NA
+TCK-00221,2026-06-04 03:00:00,,2026-W22,Incident,P2,In Progress,Quality System,ATJ,Monitoring,Engineer 11,Engineer 15,3.16,24,NA
+TCK-00222,2026-06-01 03:00:00,,2026-W22,Change Request,P3,Pending,Quality System,ATJ,Service Portal,Engineer 07,Engineer 08,15.98,72,Emergency Change
+TCK-00223,2026-05-25 18:14:00,2026-05-29 02:14:00,2026-W21,Service Request,P3,Closed,HR System,ATJ,Email,Engineer 03,Engineer 03,13.6,72,NA
+TCK-00224,2026-05-20 10:15:00,2026-05-24 13:15:00,2026-W20,Incident,P3,Resolved,WMS,AC,Teams,Engineer 14,Engineer 14,14.03,72,NA
+TCK-00225,2026-04-19 11:48:00,2026-04-23 06:48:00,2026-W16,Service Request,P2,Closed,Finance System,ATD,Service Portal,Engineer 05,Engineer 05,0.78,24,NA
+TCK-00226,2026-05-22 15:04:00,2026-05-23 11:04:00,2026-W20,Incident,P4,Cancelled,MES,ATD,Monitoring,Engineer 07,Engineer 06,31.69,120,NA
+TCK-00227,2026-04-23 13:03:00,2026-04-25 20:03:00,2026-W16,Incident,P2,Resolved,API Gateway,ATJ,Service Portal,Engineer 03,Engineer 03,2.75,24,NA
+TCK-00228,2026-06-02 16:25:00,2026-06-03 00:25:00,2026-W22,Service Request,P3,Closed,HR System,ATJ,Phone,Engineer 13,Engineer 13,7.03,72,NA
+TCK-00229,2026-05-02 10:29:00,2026-05-02 23:29:00,2026-W17,Incident,P2,Closed,API Gateway,ATD II,Email,Engineer 10,Engineer 10,1.74,24,NA
+TCK-00230,2026-05-29 07:00:00,,2026-W21,Service Request,P3,Pending,HR System,ATJ,Teams,Engineer 07,Engineer 09,8.01,72,NA
+TCK-00231,2026-03-17 08:05:00,2026-03-18 05:05:00,2026-W11,Incident,P4,Resolved,Quality System,ATD,Monitoring,Engineer 18,Engineer 18,6.76,120,NA
+TCK-00232,2026-06-02 16:00:00,,2026-W22,Incident,P2,In Progress,MES,ATD II,Monitoring,Engineer 10,Engineer 11,4.1,24,NA
+TCK-00233,2026-05-11 13:31:00,2026-05-11 17:31:00,2026-W19,Incident,P2,Resolved,AP Portal,AC,Phone,Engineer 01,Engineer 01,3.74,24,NA
+TCK-00234,2026-05-25 18:00:00,,2026-W21,Service Request,P4,In Progress,Finance System,AC,Service Portal,Engineer 15,Engineer 10,19.85,120,NA
+TCK-00235,2026-04-19 11:33:00,2026-04-20 12:33:00,2026-W16,Service Request,P3,Resolved,SAP,ATJ,Phone,Engineer 04,Engineer 04,6.04,72,NA
+TCK-00236,2026-05-02 17:58:00,2026-05-05 14:58:00,2026-W17,Service Request,P3,Closed,API Gateway,ATD,Phone,Engineer 02,Engineer 02,17.16,72,NA
+TCK-00237,2026-06-01 12:43:00,2026-06-03 05:43:00,2026-W22,Incident,P3,Closed,HR System,ATD,Monitoring,Engineer 09,Engineer 09,5.95,72,NA
+TCK-00238,2026-04-06 19:32:00,2026-04-09 01:32:00,2026-W14,Service Request,P2,Resolved,MES,AC,Monitoring,Engineer 03,Engineer 03,4.73,24,NA
+TCK-00239,2026-04-16 12:54:00,2026-04-17 04:54:00,2026-W15,Incident,P2,Closed,MES,ATD,Service Portal,Engineer 01,Engineer 01,3.46,24,NA
+TCK-00240,2026-06-01 08:00:00,,2026-W22,Incident,P3,Pending,MES,ATD II,Email,Engineer 01,Engineer 14,3.76,72,NA
+TCK-00241,2026-05-11 09:50:00,2026-05-15 07:50:00,2026-W19,Incident,P3,Closed,HR System,AC,Teams,Engineer 03,Engineer 03,16.28,72,NA
+TCK-00242,2026-04-26 17:49:00,2026-04-27 12:49:00,2026-W17,Incident,P1,Resolved,Quality System,AC,Phone,Engineer 02,Engineer 02,0.39,8,NA
+TCK-00243,2026-03-31 16:19:00,2026-04-12 03:19:00,2026-W13,Change Request,P4,Resolved,SAP,ATJ,Monitoring,Engineer 14,Engineer 14,28.28,120,Normal Change
+TCK-00244,2026-06-02 10:00:00,,2026-W22,Hot Fix,P3,In Progress,Finance System,AC,Teams,Engineer 03,Engineer 11,7.61,72,NA
+TCK-00245,2026-05-06 17:25:00,2026-05-11 23:25:00,2026-W18,Service Request,P4,Closed,API Gateway,ATD,Email,Engineer 17,Engineer 17,20.3,120,NA
+TCK-00246,2026-05-31 19:58:00,2026-06-01 08:58:00,2026-W22,Hot Fix,P4,Resolved,API Gateway,AC,Monitoring,Engineer 07,Engineer 07,11.31,120,NA
+TCK-00247,2026-04-01 12:08:00,2026-04-03 14:08:00,2026-W13,Service Request,P3,Resolved,MES,ATJ,Monitoring,Engineer 16,Engineer 16,11.47,72,NA
+TCK-00248,2026-06-04 13:00:00,,2026-W22,Hot Fix,P2,Pending,SAP,AC,Email,Engineer 13,Engineer 11,1.81,24,NA
+TCK-00249,2026-05-30 01:00:00,,2026-W21,Incident,P4,Pending,Finance System,ATJ,Email,Engineer 09,Engineer 10,18.64,120,NA
+TCK-00250,2026-06-01 05:00:00,,2026-W22,Incident,P3,Pending,MES,ATJ,Email,Engineer 05,Engineer 06,16.44,72,NA
+TCK-00251,2026-05-18 18:44:00,2026-05-20 11:44:00,2026-W20,Incident,P4,Resolved,AP Portal,ATJ,Email,Engineer 04,Engineer 04,11.75,120,NA
+TCK-00252,2026-05-30 17:00:00,,2026-W21,Incident,P3,Pending,Quality System,ATJ,Service Portal,Engineer 12,Engineer 10,10.97,72,NA
+TCK-00253,2026-05-31 18:00:00,,2026-W22,Service Request,P1,Pending,Finance System,ATD II,Teams,Engineer 16,Engineer 16,0.57,8,NA
+TCK-00254,2026-05-09 18:12:00,2026-05-10 11:12:00,2026-W18,Incident,P2,Resolved,AP Portal,ATJ,Teams,Engineer 07,Engineer 07,4.16,24,NA
+TCK-00255,2026-04-24 12:49:00,2026-04-25 14:49:00,2026-W16,Incident,P3,Closed,HR System,AC,Email,Engineer 07,Engineer 07,10.46,72,NA
+TCK-00256,2026-06-01 08:00:00,,2026-W22,Service Request,P3,In Progress,Finance System,ATJ,Email,Engineer 15,Engineer 06,12.5,72,NA
+TCK-00257,2026-05-14 10:59:00,2026-05-20 07:59:00,2026-W19,Hot Fix,P4,Resolved,Quality System,ATJ,Monitoring,Engineer 18,Engineer 18,21.56,120,NA
+TCK-00258,2026-06-01 17:15:00,,2026-W22,Hot Fix,P4,Pending,SAP,ATD,Teams,Engineer 08,Engineer 16,16.19,120,NA
+TCK-00259,2026-06-02 18:00:00,,2026-W22,Service Request,P4,Open,API Gateway,ATD,Monitoring,Engineer 04,Engineer 02,18.93,120,NA
+TCK-00260,2026-06-02 07:00:00,,2026-W22,Incident,P2,Pending,Quality System,ATD,Service Portal,Engineer 01,Engineer 04,2.41,24,NA
+TCK-00261,2026-04-17 13:23:00,2026-04-27 13:23:00,2026-W15,Change Request,P4,Closed,API Gateway,ATD,Phone,Engineer 16,Engineer 16,12.76,120,Standard Change
+TCK-00262,2026-05-31 16:00:00,,2026-W22,Service Request,P4,Pending,MES,AC,Monitoring,Engineer 15,Engineer 14,16.82,120,NA
+TCK-00263,2026-04-19 14:59:00,2026-04-22 19:59:00,2026-W16,Incident,P3,Closed,WMS,ATD II,Service Portal,Engineer 08,Engineer 08,8.6,72,NA
+TCK-00264,2026-04-29 13:53:00,2026-05-02 15:53:00,2026-W17,Service Request,P3,Closed,Quality System,ATD II,Email,Engineer 09,Engineer 09,9.79,72,NA
+TCK-00265,2026-06-04 12:00:00,,2026-W22,Incident,P3,In Progress,API Gateway,AC,Teams,Engineer 17,Engineer 07,16.19,72,NA
+TCK-00266,2026-04-03 09:15:00,2026-04-05 04:15:00,2026-W13,Change Request,P3,Resolved,WMS,ATD,Email,Engineer 13,Engineer 13,9.42,72,Normal Change
+TCK-00267,2026-03-27 12:20:00,2026-03-28 18:20:00,2026-W12,Hot Fix,P4,Resolved,Quality System,AC,Service Portal,Engineer 09,Engineer 09,11.92,120,NA
+TCK-00268,2026-04-21 12:38:00,2026-04-21 22:38:00,2026-W16,Service Request,P2,Closed,WMS,ATD II,Teams,Engineer 13,Engineer 13,3.11,24,NA
+TCK-00269,2026-05-09 19:03:00,2026-05-13 21:03:00,2026-W18,Service Request,P3,Resolved,Finance System,ATD II,Phone,Engineer 08,Engineer 08,12.65,72,NA
+TCK-00270,2026-03-20 15:04:00,2026-03-25 21:04:00,2026-W11,Incident,P3,Resolved,Finance System,ATJ,Service Portal,Engineer 13,Engineer 13,7.04,72,NA
+TCK-00271,2026-03-25 19:14:00,2026-03-26 01:14:00,2026-W12,Incident,P2,Resolved,SAP,ATJ,Teams,Engineer 09,Engineer 09,1.2,24,NA
+TCK-00272,2026-06-01 00:00:00,,2026-W22,Change Request,P3,Pending,WMS,AC,Teams,Engineer 11,Engineer 13,15.27,72,Standard Change
+TCK-00273,2026-03-19 14:18:00,2026-03-21 12:18:00,2026-W11,Incident,P2,Resolved,API Gateway,AC,Monitoring,Engineer 01,Engineer 01,2.68,24,NA
+TCK-00274,2026-06-03 23:00:00,,2026-W22,Incident,P1,Pending,HR System,ATD,Teams,Engineer 07,Engineer 04,1.33,8,NA
+TCK-00275,2026-03-30 09:51:00,2026-04-01 18:51:00,2026-W13,Incident,P3,Closed,MES,ATD,Monitoring,Engineer 12,Engineer 12,8.68,72,NA
+TCK-00276,2026-06-01 07:00:00,,2026-W22,Incident,P2,Pending,Finance System,ATD II,Monitoring,Engineer 05,Engineer 08,1.91,24,NA
+TCK-00277,2026-05-01 12:13:00,2026-05-06 06:13:00,2026-W17,Incident,P4,Closed,SAP,ATD II,Teams,Engineer 03,Engineer 03,29.74,120,NA
+TCK-00278,2026-05-06 16:38:00,2026-05-09 21:38:00,2026-W18,Incident,P3,Closed,WMS,AC,Monitoring,Engineer 04,Engineer 04,5.91,72,NA
+TCK-00279,2026-04-04 15:31:00,2026-04-13 00:31:00,2026-W13,Change Request,P3,Resolved,API Gateway,ATJ,Service Portal,Engineer 15,Engineer 15,3.13,72,Normal Change
+TCK-00280,2026-06-04 06:00:00,,2026-W22,Incident,P1,In Progress,Quality System,ATD,Monitoring,Engineer 04,Engineer 15,0.63,8,NA
+TCK-00281,2026-06-04 13:00:00,,2026-W22,Change Request,P3,In Progress,WMS,ATD II,Service Portal,Engineer 04,Engineer 02,15.98,72,Normal Change
+TCK-00282,2026-05-28 17:42:00,2026-05-31 16:42:00,2026-W21,Incident,P3,Resolved,API Gateway,ATD II,Phone,Engineer 02,Engineer 02,13.97,72,NA
+TCK-00283,2026-06-02 04:00:00,,2026-W22,Incident,P4,Open,HR System,ATD II,Monitoring,Engineer 12,Engineer 08,14.62,120,NA
+TCK-00284,2026-03-31 15:24:00,2026-04-01 14:24:00,2026-W13,Incident,P2,Closed,SAP,ATD II,Email,Engineer 17,Engineer 17,1.02,24,NA
+TCK-00285,2026-04-29 14:25:00,2026-04-30 18:25:00,2026-W17,Hot Fix,P2,Closed,SAP,AC,Service Portal,Engineer 09,Engineer 09,3.17,24,NA
+TCK-00286,2026-06-03 08:00:00,,2026-W22,Change Request,P2,Pending,SAP,ATJ,Service Portal,Engineer 11,Engineer 01,2.88,24,Standard Change
+TCK-00287,2026-06-02 18:00:00,,2026-W22,Change Request,P3,Pending,WMS,ATD,Teams,Engineer 07,Engineer 18,7.28,72,Normal Change
+TCK-00288,2026-06-04 02:00:00,,2026-W22,Incident,P1,In Progress,AP Portal,ATJ,Monitoring,Engineer 09,Engineer 10,0.91,8,NA
+TCK-00289,2026-06-02 04:00:00,,2026-W22,Change Request,P2,Open,Finance System,ATJ,Email,Engineer 11,Engineer 03,3.02,24,Normal Change
+TCK-00290,2026-04-29 14:08:00,2026-05-02 22:08:00,2026-W17,Service Request,P3,Resolved,WMS,ATJ,Phone,Engineer 05,Engineer 05,9.03,72,NA
+TCK-00291,2026-06-03 06:00:00,,2026-W22,Incident,P2,Pending,MES,ATD,Service Portal,Engineer 14,Engineer 06,3.92,24,NA
+TCK-00292,2026-05-30 14:00:00,,2026-W21,Service Request,P4,In Progress,API Gateway,AC,Service Portal,Engineer 08,Engineer 01,18.9,120,NA
+TCK-00293,2026-05-26 18:45:00,2026-05-29 05:45:00,2026-W21,Incident,P2,Closed,Quality System,ATD II,Monitoring,Engineer 11,Engineer 11,4.42,24,NA
+TCK-00294,2026-04-18 11:30:00,2026-04-18 15:30:00,2026-W15,Service Request,P4,Resolved,SAP,ATJ,Monitoring,Engineer 02,Engineer 02,15.59,120,NA
+TCK-00295,2026-04-24 14:32:00,2026-04-28 11:32:00,2026-W16,Incident,P3,Closed,SAP,ATJ,Email,Engineer 16,Engineer 16,11.92,72,NA
+TCK-00296,2026-05-04 17:14:00,2026-05-06 02:14:00,2026-W18,Incident,P3,Resolved,SAP,ATJ,Service Portal,Engineer 08,Engineer 08,11.73,72,NA
+TCK-00297,2026-05-16 19:54:00,2026-05-22 23:54:00,2026-W19,Service Request,P3,Resolved,SAP,ATJ,Service Portal,Engineer 09,Engineer 09,9.41,72,NA
+TCK-00298,2026-04-09 10:10:00,2026-04-10 06:10:00,2026-W14,Service Request,P4,Resolved,HR System,ATD,Service Portal,Engineer 16,Engineer 16,20.37,120,NA
+TCK-00299,2026-05-30 18:00:00,,2026-W21,Change Request,P4,Pending,API Gateway,AC,Email,Engineer 09,Engineer 12,31.11,120,Standard Change
+TCK-00300,2026-06-02 13:00:00,,2026-W22,Incident,P3,Open,SAP,AC,Phone,Engineer 07,Engineer 02,18.95,72,NA
+TCK-00301,2026-06-03 21:00:00,,2026-W22,Incident,P3,In Progress,AP Portal,ATD II,Teams,Engineer 05,Engineer 07,11.61,72,NA
+TCK-00302,2026-06-04 10:00:00,,2026-W22,Incident,P1,In Progress,Quality System,ATD II,Monitoring,Engineer 02,Engineer 12,0.25,8,NA
+TCK-00303,2026-05-31 02:00:00,,2026-W22,Incident,P4,Pending,HR System,ATJ,Phone,Engineer 18,Engineer 11,11.45,120,NA
+TCK-00304,2026-03-20 18:20:00,2026-03-22 13:20:00,2026-W11,Service Request,P2,Resolved,MES,ATD II,Phone,Engineer 03,Engineer 03,5.96,24,NA
+TCK-00305,2026-06-02 02:00:00,,2026-W22,Service Request,P1,In Progress,SAP,ATJ,Teams,Engineer 10,Engineer 06,0.74,8,NA
+TCK-00306,2026-06-04 13:00:00,,2026-W22,Incident,P4,In Progress,API Gateway,ATJ,Email,Engineer 03,Engineer 09,21.69,120,NA
+TCK-00307,2026-06-01 06:00:00,,2026-W22,Incident,P3,Open,WMS,ATJ,Phone,Engineer 05,Engineer 11,11.62,72,NA
+TCK-00308,2026-06-03 16:00:00,,2026-W22,Incident,P3,In Progress,HR System,ATD,Monitoring,Engineer 07,Engineer 06,8.5,72,NA
+TCK-00309,2026-05-08 10:10:00,2026-05-12 23:10:00,2026-W18,Incident,P4,Closed,SAP,ATD II,Phone,Engineer 18,Engineer 18,19.4,120,NA
+TCK-00310,2026-06-01 18:00:00,,2026-W22,Incident,P4,Open,MES,AC,Email,Engineer 13,Engineer 12,5.64,120,NA
+TCK-00311,2026-05-15 14:09:00,2026-05-16 00:09:00,2026-W19,Incident,P4,Resolved,SAP,AC,Teams,Engineer 14,Engineer 14,10.82,120,NA
+TCK-00312,2026-06-01 04:00:00,,2026-W22,Incident,P4,Pending,WMS,ATJ,Phone,Engineer 17,Engineer 02,12.5,120,NA
+TCK-00313,2026-03-23 09:20:00,2026-03-28 03:20:00,2026-W12,Hot Fix,P4,Resolved,AP Portal,AC,Teams,Engineer 11,Engineer 11,29.18,120,NA
+TCK-00314,2026-05-30 16:52:00,2026-06-03 22:52:00,2026-W21,Service Request,P4,Closed,WMS,ATJ,Teams,Engineer 03,Engineer 03,19.22,120,NA
+TCK-00315,2026-06-03 08:00:00,,2026-W22,Change Request,P1,In Progress,HR System,ATD,Monitoring,Engineer 11,Engineer 06,1.47,8,Standard Change
+TCK-00316,2026-05-30 18:13:00,2026-06-01 04:13:00,2026-W21,Service Request,P2,Closed,WMS,ATD,Phone,Engineer 14,Engineer 14,3.71,24,NA
+TCK-00317,2026-05-30 08:37:00,2026-05-30 23:37:00,2026-W21,Hot Fix,P3,Closed,Quality System,AC,Phone,Engineer 04,Engineer 04,8.36,72,NA
+TCK-00318,2026-05-24 13:06:00,2026-05-26 15:06:00,2026-W21,Hot Fix,P3,Resolved,HR System,AC,Service Portal,Engineer 02,Engineer 02,13.41,72,NA
+TCK-00319,2026-03-16 11:35:00,2026-03-17 09:35:00,2026-W11,Incident,P2,Resolved,Finance System,ATD,Email,Engineer 16,Engineer 16,5.3,24,NA
+TCK-00320,2026-04-09 12:33:00,2026-04-11 14:33:00,2026-W14,Service Request,P3,Resolved,SAP,AC,Phone,Engineer 04,Engineer 04,7.78,72,NA
+TCK-00321,2026-06-03 13:00:00,,2026-W22,Hot Fix,P2,In Progress,AP Portal,ATD,Phone,Engineer 17,Engineer 16,3.94,24,NA
+TCK-00322,2026-05-28 12:00:00,,2026-W21,Change Request,P4,Pending,HR System,ATJ,Teams,Engineer 14,Engineer 02,33.41,120,Normal Change
+TCK-00323,2026-05-29 10:00:00,,2026-W21,Incident,P4,Open,Quality System,ATJ,Phone,Engineer 11,Engineer 15,24.18,120,NA
+TCK-00324,2026-03-31 11:49:00,2026-04-06 23:49:00,2026-W13,Incident,P3,Resolved,WMS,AC,Monitoring,Engineer 12,Engineer 12,9.13,72,NA
+TCK-00325,2026-05-23 11:56:00,2026-05-27 11:56:00,2026-W20,Incident,P3,Resolved,SAP,ATD II,Service Portal,Engineer 03,Engineer 03,4.71,72,NA
+TCK-00326,2026-06-04 01:00:00,,2026-W22,Service Request,P3,In Progress,API Gateway,ATJ,Service Portal,Engineer 02,Engineer 04,9.12,72,NA
+TCK-00327,2026-05-21 18:57:00,2026-05-22 11:57:00,2026-W20,Incident,P3,Resolved,Finance System,ATD,Phone,Engineer 14,Engineer 14,8.67,72,NA
+TCK-00328,2026-05-01 15:17:00,2026-05-02 18:17:00,2026-W17,Incident,P3,Closed,MES,ATD II,Email,Engineer 03,Engineer 03,17.09,72,NA
+TCK-00329,2026-06-03 16:00:00,,2026-W22,Change Request,P3,Open,AP Portal,ATD,Teams,Engineer 14,Engineer 13,10.4,72,Emergency Change
+TCK-00330,2026-03-20 14:21:00,2026-03-22 03:21:00,2026-W11,Incident,P3,Closed,SAP,ATD II,Email,Engineer 12,Engineer 12,4.31,72,NA
+TCK-00331,2026-05-28 19:28:00,2026-05-29 17:28:00,2026-W21,Service Request,P3,Closed,AP Portal,AC,Phone,Engineer 11,Engineer 11,14.86,72,NA
+TCK-00332,2026-06-02 12:00:00,,2026-W22,Hot Fix,P2,In Progress,API Gateway,AC,Monitoring,Engineer 11,Engineer 16,4.15,24,NA
+TCK-00333,2026-05-26 22:00:00,,2026-W21,Service Request,P3,In Progress,Finance System,AC,Phone,Engineer 12,Engineer 13,15.71,72,NA
+TCK-00334,2026-06-01 22:00:00,,2026-W22,Incident,P4,Pending,MES,ATD,Service Portal,Engineer 11,Engineer 15,18.43,120,NA
+TCK-00335,2026-05-24 12:53:00,2026-05-28 09:53:00,2026-W21,Service Request,P3,Closed,MES,ATJ,Monitoring,Engineer 16,Engineer 16,8.18,72,NA
+TCK-00336,2026-06-02 11:40:00,2026-06-03 04:40:00,2026-W22,Hot Fix,P1,Closed,Finance System,AC,Teams,Engineer 03,Engineer 03,1.32,8,NA
+TCK-00337,2026-04-11 13:25:00,2026-04-15 08:25:00,2026-W14,Change Request,P3,Cancelled,AP Portal,ATJ,Email,Engineer 01,Engineer 13,9.52,72,Normal Change
+TCK-00338,2026-04-27 17:11:00,2026-04-29 09:11:00,2026-W17,Change Request,P4,Closed,SAP,ATD II,Phone,Engineer 08,Engineer 08,21.27,120,Normal Change
+TCK-00339,2026-06-04 13:00:00,,2026-W22,Service Request,P3,In Progress,AP Portal,AC,Teams,Engineer 03,Engineer 03,0.25,72,NA
+TCK-00340,2026-06-01 16:34:00,,2026-W22,Change Request,P3,In Progress,Finance System,ATJ,Teams,Engineer 03,Engineer 18,12.33,72,Normal Change
+TCK-00341,2026-06-01 19:24:00,,2026-W22,Service Request,P4,In Progress,SAP,AC,Monitoring,Engineer 14,Engineer 02,20.75,120,NA
+TCK-00342,2026-05-25 08:00:00,,2026-W21,Service Request,P4,Open,Quality System,ATD,Phone,Engineer 17,Engineer 10,33.46,120,NA
+TCK-00343,2026-05-21 18:04:00,2026-05-25 19:04:00,2026-W20,Service Request,P3,Closed,Quality System,ATD II,Email,Engineer 18,Engineer 18,12.49,72,NA
+TCK-00344,2026-05-26 19:08:00,2026-05-28 02:08:00,2026-W21,Service Request,P2,Closed,AP Portal,ATJ,Teams,Engineer 09,Engineer 09,2.54,24,NA
+TCK-00345,2026-05-31 10:00:00,,2026-W22,Incident,P3,Pending,HR System,ATD II,Service Portal,Engineer 18,Engineer 04,4.97,72,NA
+TCK-00346,2026-06-04 07:00:00,,2026-W22,Service Request,P4,Pending,SAP,AC,Teams,Engineer 14,Engineer 03,24.92,120,NA
+TCK-00347,2026-03-29 12:31:00,2026-04-02 08:31:00,2026-W13,Service Request,P3,Resolved,API Gateway,AC,Email,Engineer 15,Engineer 15,16.39,72,NA
+TCK-00348,2026-05-09 14:18:00,2026-05-13 05:18:00,2026-W18,Service Request,P3,Closed,WMS,AC,Email,Engineer 10,Engineer 10,13.5,72,NA
+TCK-00349,2026-04-07 17:08:00,2026-04-08 06:08:00,2026-W14,Incident,P2,Resolved,SAP,AC,Email,Engineer 11,Engineer 11,5.4,24,NA
+TCK-00350,2026-06-04 13:00:00,,2026-W22,Incident,P3,In Progress,SAP,AC,Phone,Engineer 09,Engineer 05,9.77,72,NA
+TCK-00351,2026-04-23 10:47:00,2026-04-27 23:47:00,2026-W16,Change Request,P2,Closed,SAP,AC,Phone,Engineer 10,Engineer 10,3.13,24,Normal Change
+TCK-00352,2026-06-04 01:00:00,,2026-W22,Incident,P4,Pending,SAP,ATD II,Monitoring,Engineer 11,Engineer 08,0.64,120,NA
+TCK-00353,2026-05-26 16:30:00,2026-05-29 18:30:00,2026-W21,Service Request,P3,Closed,HR System,ATD,Monitoring,Engineer 02,Engineer 02,9.38,72,NA
+TCK-00354,2026-03-31 11:11:00,2026-04-05 01:11:00,2026-W13,Service Request,P4,Closed,HR System,ATJ,Teams,Engineer 05,Engineer 05,33.86,120,NA
+TCK-00355,2026-04-15 08:02:00,2026-04-16 09:02:00,2026-W15,Change Request,P3,Resolved,API Gateway,AC,Email,Engineer 11,Engineer 11,16.87,72,Normal Change
+TCK-00356,2026-04-27 09:26:00,2026-05-01 18:26:00,2026-W17,Change Request,P3,Resolved,WMS,ATJ,Phone,Engineer 05,Engineer 05,13.12,72,Normal Change
+TCK-00357,2026-06-03 18:52:00,,2026-W22,Service Request,P4,Open,WMS,ATJ,Phone,Engineer 03,Engineer 04,16.81,120,NA
+TCK-00358,2026-04-22 18:51:00,2026-04-23 09:51:00,2026-W16,Hot Fix,P2,Cancelled,Finance System,ATJ,Email,Engineer 16,Engineer 03,3.26,24,NA
+TCK-00359,2026-06-03 14:00:00,,2026-W22,Incident,P4,In Progress,API Gateway,ATD II,Monitoring,Engineer 06,Engineer 03,20.21,120,NA
+TCK-00360,2026-04-28 08:57:00,2026-05-04 21:57:00,2026-W17,Incident,P3,Resolved,Finance System,ATJ,Teams,Engineer 06,Engineer 06,7.58,72,NA
+TCK-00361,2026-03-20 19:32:00,2026-03-24 08:32:00,2026-W11,Incident,P3,Resolved,AP Portal,ATJ,Email,Engineer 05,Engineer 05,15.32,72,NA
+TCK-00362,2026-04-02 18:19:00,2026-04-04 05:19:00,2026-W13,Change Request,P1,Closed,MES,ATD II,Email,Engineer 07,Engineer 07,0.77,8,Normal Change
+TCK-00363,2026-05-01 15:58:00,2026-05-03 22:58:00,2026-W17,Service Request,P4,Closed,AP Portal,AC,Monitoring,Engineer 18,Engineer 18,20.59,120,NA
+TCK-00364,2026-05-16 09:43:00,2026-05-17 12:43:00,2026-W19,Hot Fix,P2,Closed,API Gateway,ATJ,Phone,Engineer 02,Engineer 02,4.35,24,NA
+TCK-00365,2026-05-27 14:51:00,2026-05-29 05:51:00,2026-W21,Service Request,P2,Cancelled,SAP,ATD,Phone,Engineer 15,Engineer 06,1.65,24,NA
+TCK-00366,2026-05-31 04:00:00,,2026-W22,Change Request,P3,In Progress,WMS,ATD II,Phone,Engineer 15,Engineer 12,13.24,72,Normal Change
+TCK-00367,2026-06-02 21:00:00,,2026-W22,Incident,P3,In Progress,Finance System,ATD,Email,Engineer 15,Engineer 03,13.72,72,NA
+TCK-00368,2026-05-29 20:00:00,,2026-W21,Service Request,P4,Pending,Finance System,ATD II,Monitoring,Engineer 18,Engineer 02,20.56,120,NA
+TCK-00369,2026-03-27 14:01:00,2026-03-30 05:01:00,2026-W12,Hot Fix,P1,Closed,SAP,ATD,Service Portal,Engineer 09,Engineer 09,0.79,8,NA
+TCK-00370,2026-06-01 18:00:00,,2026-W22,Change Request,P3,Pending,Finance System,AC,Monitoring,Engineer 10,Engineer 10,4.22,72,Emergency Change
+TCK-00371,2026-04-10 19:11:00,2026-04-13 20:11:00,2026-W14,Hot Fix,P3,Resolved,Finance System,AC,Teams,Engineer 11,Engineer 11,7.5,72,NA
+TCK-00372,2026-06-01 15:00:00,,2026-W22,Incident,P4,Pending,SAP,ATD,Monitoring,Engineer 16,Engineer 08,13.09,120,NA
+TCK-00373,2026-05-31 16:00:00,,2026-W22,Incident,P3,Pending,API Gateway,ATJ,Service Portal,Engineer 02,Engineer 02,7.44,72,NA
+TCK-00374,2026-06-04 02:00:00,,2026-W22,Service Request,P4,Pending,API Gateway,ATJ,Teams,Engineer 03,Engineer 08,17.34,120,NA
+TCK-00375,2026-06-02 04:00:00,,2026-W22,Incident,P3,In Progress,MES,AC,Email,Engineer 02,Engineer 16,11.59,72,NA
+TCK-00376,2026-04-08 16:51:00,2026-04-12 02:51:00,2026-W14,Hot Fix,P3,Resolved,WMS,AC,Service Portal,Engineer 16,Engineer 16,17.01,72,NA
+TCK-00377,2026-06-03 19:22:00,,2026-W22,Service Request,P3,Open,API Gateway,AC,Service Portal,Engineer 16,Engineer 17,14.43,72,NA
+TCK-00378,2026-05-22 23:00:00,,2026-W20,Change Request,P4,In Progress,SAP,ATJ,Phone,Engineer 18,Engineer 15,16.75,120,Normal Change
+TCK-00379,2026-06-01 03:00:00,,2026-W22,Service Request,P3,In Progress,Quality System,ATJ,Email,Engineer 01,Engineer 14,15.1,72,NA
+TCK-00380,2026-04-10 18:05:00,2026-04-15 22:05:00,2026-W14,Incident,P4,Resolved,SAP,AC,Monitoring,Engineer 15,Engineer 15,21.7,120,NA
+TCK-00381,2026-05-18 12:39:00,2026-05-19 15:39:00,2026-W20,Change Request,P4,Resolved,Finance System,ATD,Service Portal,Engineer 10,Engineer 10,24.88,120,Normal Change
+TCK-00382,2026-06-01 06:00:00,,2026-W22,Incident,P3,Open,MES,ATD,Email,Engineer 05,Engineer 17,8.17,72,NA
+TCK-00383,2026-06-03 06:00:00,,2026-W22,Change Request,P2,In Progress,HR System,ATD II,Email,Engineer 15,Engineer 03,3.05,24,Normal Change
+TCK-00384,2026-06-02 20:00:00,,2026-W22,Service Request,P2,In Progress,SAP,ATD II,Phone,Engineer 07,Engineer 05,3.08,24,NA
+TCK-00385,2026-05-29 06:00:00,,2026-W21,Incident,P4,In Progress,AP Portal,ATD II,Teams,Engineer 09,Engineer 03,17.35,120,NA
+TCK-00386,2026-05-30 17:40:00,2026-06-02 22:40:00,2026-W21,Incident,P3,Resolved,AP Portal,ATD II,Service Portal,Engineer 04,Engineer 04,9.22,72,NA
+TCK-00387,2026-06-02 09:00:00,,2026-W22,Change Request,P2,In Progress,MES,ATJ,Phone,Engineer 15,Engineer 14,1.98,24,Emergency Change
+TCK-00388,2026-05-18 18:15:00,2026-05-19 06:15:00,2026-W20,Service Request,P2,Resolved,SAP,ATJ,Monitoring,Engineer 12,Engineer 12,2.3,24,NA
+TCK-00389,2026-05-29 10:00:00,,2026-W21,Change Request,P4,Open,API Gateway,ATJ,Service Portal,Engineer 09,Engineer 17,6.43,120,Standard Change
+TCK-00390,2026-04-19 11:39:00,2026-04-20 20:39:00,2026-W16,Service Request,P2,Resolved,MES,ATD,Email,Engineer 02,Engineer 02,3.28,24,NA
+TCK-00391,2026-05-27 21:00:00,,2026-W21,Incident,P3,Pending,SAP,ATD,Monitoring,Engineer 11,Engineer 16,8.44,72,NA
+TCK-00392,2026-06-03 20:00:00,,2026-W22,Service Request,P2,Open,API Gateway,ATD,Email,Engineer 06,Engineer 06,1.32,24,NA
+TCK-00393,2026-05-31 08:00:00,,2026-W22,Incident,P4,Open,WMS,ATD,Teams,Engineer 18,Engineer 10,5.72,120,NA
+TCK-00394,2026-06-02 08:56:00,2026-06-02 20:56:00,2026-W22,Service Request,P3,Resolved,API Gateway,ATJ,Phone,Engineer 11,Engineer 11,10.13,72,NA
+TCK-00395,2026-05-02 13:12:00,2026-05-05 11:12:00,2026-W17,Service Request,P3,Cancelled,AP Portal,ATD,Monitoring,Engineer 18,Engineer 01,11.8,72,NA
+TCK-00396,2026-05-31 13:00:00,,2026-W22,Incident,P3,Open,HR System,ATD II,Phone,Engineer 16,Engineer 12,5.94,72,NA
+TCK-00397,2026-04-20 13:28:00,2026-04-22 10:28:00,2026-W16,Hot Fix,P2,Resolved,MES,ATD,Phone,Engineer 06,Engineer 06,3.62,24,NA
+TCK-00398,2026-06-04 13:00:00,,2026-W22,Service Request,P2,In Progress,Finance System,ATJ,Service Portal,Engineer 01,Engineer 12,5.99,24,NA
+TCK-00399,2026-05-06 13:00:00,2026-05-07 02:00:00,2026-W18,Incident,P1,Resolved,HR System,ATD II,Teams,Engineer 03,Engineer 03,1.76,8,NA
+TCK-00400,2026-06-04 14:00:00,,2026-W22,Change Request,P3,Open,HR System,ATJ,Phone,Engineer 11,Engineer 15,10.59,72,Normal Change
+TCK-00401,2026-03-22 19:33:00,2026-03-23 12:33:00,2026-W12,Hot Fix,P1,Closed,WMS,ATD II,Email,Engineer 04,Engineer 04,1.79,8,NA
+TCK-00402,2026-03-16 08:37:00,2026-03-16 23:37:00,2026-W11,Incident,P3,Closed,Quality System,ATD,Teams,Engineer 09,Engineer 09,11.38,72,NA
+TCK-00403,2026-05-21 09:57:00,2026-05-26 23:57:00,2026-W20,Incident,P4,Closed,SAP,ATD,Email,Engineer 12,Engineer 12,21.85,120,NA
+TCK-00404,2026-05-12 14:41:00,2026-05-17 04:41:00,2026-W19,Change Request,P4,Closed,API Gateway,ATD,Email,Engineer 18,Engineer 18,18.8,120,Standard Change
+TCK-00405,2026-06-01 04:00:00,,2026-W22,Incident,P2,In Progress,Quality System,ATD,Service Portal,Engineer 12,Engineer 18,3.5,24,NA
+TCK-00406,2026-05-10 14:24:00,2026-05-11 18:24:00,2026-W19,Change Request,P2,Resolved,SAP,ATD,Service Portal,Engineer 05,Engineer 05,2.71,24,Normal Change
+TCK-00407,2026-05-31 18:00:00,,2026-W22,Change Request,P3,Pending,API Gateway,ATD,Email,Engineer 04,Engineer 04,7.1,72,Emergency Change
+TCK-00408,2026-06-03 17:00:00,,2026-W22,Incident,P2,Open,API Gateway,ATD II,Phone,Engineer 03,Engineer 10,5.2,24,NA
+TCK-00409,2026-04-14 16:45:00,2026-04-15 03:45:00,2026-W15,Incident,P2,Resolved,Finance System,ATD,Monitoring,Engineer 15,Engineer 15,3.08,24,NA
+TCK-00410,2026-06-03 04:00:00,,2026-W22,Service Request,P3,In Progress,SAP,ATJ,Monitoring,Engineer 17,Engineer 11,7.37,72,NA
+TCK-00411,2026-06-03 19:00:00,,2026-W22,Service Request,P2,Pending,API Gateway,ATD,Service Portal,Engineer 06,Engineer 12,4.3,24,NA
+TCK-00412,2026-06-02 15:00:00,,2026-W22,Incident,P4,Pending,SAP,ATD II,Monitoring,Engineer 12,Engineer 09,10.04,120,NA
+TCK-00413,2026-05-31 04:00:00,,2026-W22,Change Request,P3,Pending,SAP,AC,Monitoring,Engineer 01,Engineer 16,3.27,72,Standard Change
+TCK-00414,2026-05-29 02:00:00,,2026-W21,Change Request,P1,Pending,API Gateway,ATD,Service Portal,Engineer 09,Engineer 05,1.69,8,Emergency Change
+TCK-00415,2026-06-02 06:00:00,,2026-W22,Incident,P2,In Progress,WMS,AC,Service Portal,Engineer 06,Engineer 06,1.87,24,NA
+TCK-00416,2026-03-28 14:06:00,2026-03-29 19:06:00,2026-W12,Service Request,P2,Resolved,HR System,ATD,Phone,Engineer 05,Engineer 05,3.16,24,NA
+TCK-00417,2026-04-28 11:04:00,2026-04-28 17:04:00,2026-W17,Hot Fix,P2,Closed,Finance System,ATD,Monitoring,Engineer 01,Engineer 01,4.07,24,NA
+TCK-00418,2026-05-11 14:17:00,2026-05-14 12:17:00,2026-W19,Change Request,P3,Resolved,API Gateway,ATD II,Phone,Engineer 14,Engineer 14,7.55,72,Emergency Change
+TCK-00419,2026-06-03 18:01:00,2026-06-04 03:01:00,2026-W22,Incident,P2,Closed,WMS,ATJ,Service Portal,Engineer 13,Engineer 13,1.04,24,NA
+TCK-00420,2026-06-01 06:00:00,,2026-W22,Incident,P3,Open,SAP,ATJ,Phone,Engineer 09,Engineer 13,13.24,72,NA
+TCK-00421,2026-05-31 17:36:00,2026-06-01 02:36:00,2026-W22,Incident,P2,Closed,WMS,ATD,Monitoring,Engineer 10,Engineer 10,5.66,24,NA
+TCK-00422,2026-04-22 10:37:00,2026-04-23 08:37:00,2026-W16,Change Request,P3,Resolved,SAP,ATD,Email,Engineer 05,Engineer 05,10.8,72,Normal Change
+TCK-00423,2026-04-14 13:27:00,2026-04-20 08:27:00,2026-W15,Incident,P3,Closed,SAP,ATJ,Monitoring,Engineer 06,Engineer 06,4.02,72,NA
+TCK-00424,2026-06-03 22:00:00,,2026-W22,Service Request,P3,Open,AP Portal,ATD,Phone,Engineer 18,Engineer 16,14.1,72,NA
+TCK-00425,2026-05-13 18:40:00,2026-05-16 09:40:00,2026-W19,Incident,P4,Resolved,Finance System,ATD,Monitoring,Engineer 07,Engineer 07,21.42,120,NA
+TCK-00426,2026-05-29 16:22:00,2026-05-31 10:22:00,2026-W21,Incident,P4,Closed,SAP,ATD II,Service Portal,Engineer 08,Engineer 08,15.76,120,NA
+TCK-00427,2026-06-02 21:00:00,,2026-W22,Service Request,P3,In Progress,Quality System,ATD,Phone,Engineer 15,Engineer 02,3.03,72,NA
+TCK-00428,2026-05-08 13:06:00,2026-05-09 07:06:00,2026-W18,Service Request,P4,Closed,AP Portal,ATD II,Teams,Engineer 17,Engineer 17,9.46,120,NA
+TCK-00429,2026-06-03 20:00:00,,2026-W22,Incident,P2,Pending,Finance System,ATD,Service Portal,Engineer 10,Engineer 14,2.85,24,NA
+TCK-00430,2026-03-19 16:12:00,2026-03-21 17:12:00,2026-W11,Incident,P3,Resolved,SAP,AC,Phone,Engineer 02,Engineer 02,1.85,72,NA
+TCK-00431,2026-05-15 19:02:00,2026-05-18 09:02:00,2026-W19,Incident,P3,Closed,AP Portal,ATD II,Email,Engineer 10,Engineer 10,8.06,72,NA
+TCK-00432,2026-04-15 16:41:00,2026-04-18 07:41:00,2026-W15,Incident,P2,Resolved,Quality System,AC,Email,Engineer 13,Engineer 13,5.28,24,NA
+TCK-00433,2026-06-04 03:00:00,,2026-W22,Hot Fix,P2,Pending,API Gateway,ATD,Teams,Engineer 02,Engineer 08,3.36,24,NA
+TCK-00434,2026-06-02 21:00:00,,2026-W22,Service Request,P2,In Progress,API Gateway,ATJ,Email,Engineer 15,Engineer 04,1.89,24,NA
+TCK-00435,2026-03-31 16:27:00,2026-04-01 23:27:00,2026-W13,Incident,P3,Closed,MES,ATD,Monitoring,Engineer 12,Engineer 12,4.24,72,NA
+TCK-00436,2026-05-07 19:11:00,2026-05-10 03:11:00,2026-W18,Incident,P2,Resolved,MES,ATD II,Teams,Engineer 13,Engineer 13,5.91,24,NA
+TCK-00437,2026-05-28 23:00:00,,2026-W21,Service Request,P2,Pending,API Gateway,ATD II,Monitoring,Engineer 13,Engineer 17,2.13,24,NA
+TCK-00438,2026-06-04 03:00:00,,2026-W22,Change Request,P3,In Progress,SAP,ATD II,Service Portal,Engineer 03,Engineer 07,6.95,72,Emergency Change
+TCK-00439,2026-06-01 11:00:00,,2026-W22,Service Request,P4,Pending,AP Portal,ATD,Teams,Engineer 12,Engineer 10,24.32,120,NA
+TCK-00440,2026-06-03 22:00:00,,2026-W22,Hot Fix,P1,Pending,WMS,AC,Email,Engineer 07,Engineer 11,1.85,8,NA
+TCK-00441,2026-05-23 10:38:00,2026-06-02 15:38:00,2026-W20,Change Request,P4,Resolved,SAP,ATJ,Email,Engineer 02,Engineer 02,20.4,120,Normal Change
+TCK-00442,2026-06-02 21:00:00,,2026-W22,Incident,P4,Open,Quality System,ATD II,Phone,Engineer 07,Engineer 05,20.58,120,NA
+TCK-00443,2026-05-29 21:00:00,,2026-W21,Hot Fix,P4,Pending,WMS,AC,Teams,Engineer 12,Engineer 06,19.48,120,NA
+TCK-00444,2026-06-02 18:00:00,,2026-W22,Incident,P2,Pending,Quality System,ATJ,Phone,Engineer 13,Engineer 16,4.18,24,NA
+TCK-00445,2026-05-30 13:00:00,,2026-W21,Service Request,P4,Open,HR System,AC,Teams,Engineer 06,Engineer 09,6.02,120,NA
+TCK-00446,2026-03-31 15:27:00,2026-04-01 20:27:00,2026-W13,Change Request,P4,Resolved,Finance System,ATJ,Phone,Engineer 02,Engineer 02,31.01,120,Emergency Change
+TCK-00447,2026-05-05 17:25:00,2026-05-09 10:25:00,2026-W18,Incident,P3,Resolved,Quality System,ATD,Monitoring,Engineer 02,Engineer 02,18.5,72,NA
+TCK-00448,2026-06-02 20:00:00,,2026-W22,Service Request,P4,Open,AP Portal,ATJ,Teams,Engineer 09,Engineer 10,15.38,120,NA
+TCK-00449,2026-06-04 11:00:00,,2026-W22,Service Request,P2,Pending,Finance System,ATJ,Monitoring,Engineer 17,Engineer 12,4.23,24,NA
+TCK-00450,2026-06-03 16:14:00,,2026-W22,Change Request,P3,Pending,Finance System,ATD II,Teams,Engineer 09,Engineer 03,8.39,72,Standard Change
+TCK-00451,2026-03-28 17:52:00,2026-03-30 10:52:00,2026-W12,Incident,P3,Closed,Finance System,AC,Monitoring,Engineer 05,Engineer 05,12.99,72,NA
+TCK-00452,2026-04-26 15:47:00,2026-04-27 18:47:00,2026-W17,Service Request,P4,Resolved,MES,ATD,Teams,Engineer 10,Engineer 10,24.73,120,NA
+TCK-00453,2026-05-24 13:47:00,2026-05-25 23:47:00,2026-W21,Incident,P2,Closed,API Gateway,ATD II,Phone,Engineer 07,Engineer 07,1.84,24,NA
+TCK-00454,2026-06-02 21:00:00,,2026-W22,Incident,P3,Open,SAP,ATD,Teams,Engineer 03,Engineer 18,4.79,72,NA
+TCK-00455,2026-04-01 09:20:00,2026-04-03 07:20:00,2026-W13,Service Request,P2,Resolved,Quality System,AC,Email,Engineer 02,Engineer 02,3.57,24,NA
+TCK-00456,2026-06-04 13:00:00,,2026-W22,Service Request,P3,Pending,WMS,AC,Monitoring,Engineer 09,Engineer 02,12.86,72,NA
+TCK-00457,2026-05-03 18:34:00,2026-05-08 07:34:00,2026-W18,Change Request,P4,Resolved,API Gateway,ATD II,Monitoring,Engineer 04,Engineer 04,13.23,120,Standard Change
+TCK-00458,2026-05-08 09:49:00,2026-05-10 17:49:00,2026-W18,Incident,P3,Resolved,API Gateway,ATD II,Service Portal,Engineer 17,Engineer 17,18.69,72,NA
+TCK-00459,2026-05-26 14:00:00,,2026-W21,Service Request,P4,In Progress,Finance System,AC,Teams,Engineer 03,Engineer 02,3.09,120,NA
+TCK-00460,2026-05-29 05:00:00,,2026-W21,Incident,P4,Pending,SAP,ATD,Phone,Engineer 10,Engineer 16,13.33,120,NA
+TCK-00461,2026-06-03 11:00:00,,2026-W22,Service Request,P1,Pending,SAP,ATD,Monitoring,Engineer 08,Engineer 01,1.3,8,NA
+TCK-00462,2026-06-03 07:00:00,,2026-W22,Change Request,P2,Open,AP Portal,ATD,Service Portal,Engineer 09,Engineer 02,5.78,24,Standard Change
+TCK-00463,2026-05-24 11:15:00,2026-05-26 18:15:00,2026-W21,Service Request,P3,Resolved,Finance System,ATJ,Email,Engineer 02,Engineer 02,12.88,72,NA
+TCK-00464,2026-06-03 22:00:00,,2026-W22,Incident,P3,Open,WMS,ATJ,Service Portal,Engineer 07,Engineer 10,8.06,72,NA
+TCK-00465,2026-04-19 18:34:00,2026-04-21 22:34:00,2026-W16,Change Request,P3,Closed,API Gateway,ATD II,Teams,Engineer 06,Engineer 06,7.86,72,Standard Change
+TCK-00466,2026-05-31 04:00:00,,2026-W22,Change Request,P4,Open,SAP,AC,Teams,Engineer 08,Engineer 13,6.99,120,Normal Change
+TCK-00467,2026-06-04 14:00:00,,2026-W22,Change Request,P2,In Progress,SAP,AC,Monitoring,Engineer 03,Engineer 18,4.03,24,Normal Change
+TCK-00468,2026-04-14 12:22:00,2026-04-16 01:22:00,2026-W15,Change Request,P2,Resolved,AP Portal,ATJ,Phone,Engineer 08,Engineer 08,2.19,24,Normal Change
+TCK-00469,2026-06-01 18:00:00,,2026-W22,Incident,P3,In Progress,Finance System,ATJ,Monitoring,Engineer 10,Engineer 10,7.55,72,NA
+TCK-00470,2026-05-11 18:14:00,2026-05-15 22:14:00,2026-W19,Incident,P3,Resolved,Quality System,ATJ,Email,Engineer 02,Engineer 02,14.35,72,NA
+TCK-00471,2026-05-13 10:30:00,2026-05-14 13:30:00,2026-W19,Change Request,P2,Closed,API Gateway,ATD II,Email,Engineer 03,Engineer 03,2.36,24,Normal Change
+TCK-00472,2026-03-30 14:42:00,2026-03-30 15:42:00,2026-W13,Incident,P4,Resolved,API Gateway,ATD II,Service Portal,Engineer 02,Engineer 02,33.37,120,NA
+TCK-00473,2026-05-30 12:00:00,,2026-W21,Incident,P4,Open,SAP,AC,Monitoring,Engineer 18,Engineer 04,23.81,120,NA
+TCK-00474,2026-06-03 12:00:00,,2026-W22,Service Request,P3,In Progress,MES,ATD II,Service Portal,Engineer 02,Engineer 09,7.89,72,NA
+TCK-00475,2026-05-24 13:44:00,2026-05-24 19:44:00,2026-W21,Change Request,P2,Resolved,API Gateway,ATJ,Monitoring,Engineer 01,Engineer 01,5.17,24,Normal Change
+TCK-00476,2026-06-03 00:00:00,,2026-W22,Hot Fix,P3,In Progress,AP Portal,ATD II,Monitoring,Engineer 03,Engineer 04,12.83,72,NA
+TCK-00477,2026-05-15 11:36:00,2026-05-16 19:36:00,2026-W19,Service Request,P2,Closed,SAP,ATD,Teams,Engineer 10,Engineer 10,0.25,24,NA
+TCK-00478,2026-04-05 12:28:00,2026-04-11 12:28:00,2026-W14,Service Request,P4,Closed,Quality System,ATD,Service Portal,Engineer 06,Engineer 06,8.13,120,NA
+TCK-00479,2026-03-30 18:18:00,2026-04-04 04:18:00,2026-W13,Incident,P3,Closed,SAP,ATJ,Teams,Engineer 15,Engineer 15,11.92,72,NA
+TCK-00480,2026-06-01 06:00:00,,2026-W22,Incident,P1,Open,Finance System,AC,Teams,Engineer 15,Engineer 01,0.56,8,NA
+TCK-00481,2026-06-02 14:00:00,,2026-W22,Change Request,P3,Pending,Finance System,ATJ,Email,Engineer 11,Engineer 08,4.1,72,Emergency Change
+TCK-00482,2026-05-10 16:19:00,2026-05-14 14:19:00,2026-W19,Service Request,P3,Resolved,WMS,AC,Service Portal,Engineer 01,Engineer 01,7.54,72,NA
+TCK-00483,2026-05-31 03:00:00,,2026-W22,Incident,P2,Pending,MES,AC,Phone,Engineer 16,Engineer 14,3.01,24,NA
+TCK-00484,2026-04-21 12:24:00,2026-04-25 18:24:00,2026-W16,Change Request,P3,Closed,HR System,ATJ,Email,Engineer 11,Engineer 11,9.99,72,Normal Change
+TCK-00485,2026-06-03 03:00:00,,2026-W22,Service Request,P3,In Progress,WMS,AC,Teams,Engineer 08,Engineer 05,9.04,72,NA
+TCK-00486,2026-04-14 08:08:00,2026-04-23 06:08:00,2026-W15,Incident,P4,Cancelled,Quality System,ATJ,Service Portal,Engineer 14,Engineer 16,28.16,120,NA
+TCK-00487,2026-06-04 04:00:00,,2026-W22,Service Request,P3,Open,MES,ATD,Service Portal,Engineer 02,Engineer 09,17.97,72,NA
+TCK-00488,2026-03-19 14:18:00,2026-03-20 23:18:00,2026-W11,Service Request,P3,Resolved,API Gateway,ATD,Phone,Engineer 11,Engineer 11,10.15,72,NA
+TCK-00489,2026-04-17 19:38:00,2026-04-20 06:38:00,2026-W15,Service Request,P2,Resolved,SAP,AC,Monitoring,Engineer 10,Engineer 10,3.03,24,NA
+TCK-00490,2026-03-27 09:36:00,2026-04-02 03:36:00,2026-W12,Incident,P4,Resolved,WMS,AC,Email,Engineer 10,Engineer 10,8.43,120,NA
+TCK-00491,2026-06-04 10:00:00,,2026-W22,Incident,P1,Pending,API Gateway,ATJ,Monitoring,Engineer 07,Engineer 06,1.21,8,NA
+TCK-00492,2026-05-25 12:54:00,2026-05-29 03:54:00,2026-W21,Incident,P3,Cancelled,HR System,ATD II,Teams,Engineer 16,Engineer 03,17.14,72,NA
+TCK-00493,2026-06-01 06:00:00,,2026-W22,Incident,P3,Pending,Quality System,AC,Monitoring,Engineer 03,Engineer 17,9.42,72,NA
+TCK-00494,2026-04-26 18:06:00,2026-04-28 13:06:00,2026-W17,Incident,P2,Closed,SAP,ATD,Teams,Engineer 13,Engineer 13,2.23,24,NA
+TCK-00495,2026-05-04 12:01:00,2026-05-13 08:01:00,2026-W18,Change Request,P4,Closed,WMS,ATJ,Service Portal,Engineer 01,Engineer 01,0.25,120,Emergency Change
+TCK-00496,2026-06-01 07:00:00,,2026-W22,Change Request,P3,Open,API Gateway,AC,Email,Engineer 18,Engineer 11,7.09,72,Normal Change
+TCK-00497,2026-03-22 14:51:00,2026-03-24 16:51:00,2026-W12,Incident,P3,Resolved,HR System,ATD II,Service Portal,Engineer 15,Engineer 15,13.52,72,NA
+TCK-00498,2026-06-04 02:00:00,,2026-W22,Service Request,P2,Pending,SAP,ATD II,Teams,Engineer 04,Engineer 11,1.79,24,NA
+TCK-00499,2026-05-30 03:00:00,,2026-W21,Incident,P4,Pending,MES,ATJ,Email,Engineer 06,Engineer 10,26.78,120,NA
+TCK-00500,2026-03-26 13:46:00,2026-03-30 22:46:00,2026-W12,Incident,P4,Closed,Quality System,ATJ,Phone,Engineer 13,Engineer 13,17.13,120,NA
+TCK-00501,2026-06-03 01:00:00,,2026-W22,Service Request,P2,Open,Quality System,ATJ,Email,Engineer 09,Engineer 10,3.46,24,NA
+TCK-00502,2026-03-23 17:23:00,2026-03-26 20:23:00,2026-W12,Change Request,P3,Cancelled,SAP,ATJ,Teams,Engineer 02,Engineer 06,13.04,72,Normal Change
+TCK-00503,2026-06-01 07:00:00,,2026-W22,Incident,P4,In Progress,Quality System,ATD,Teams,Engineer 15,Engineer 17,24.54,120,NA
+TCK-00504,2026-06-02 07:00:00,,2026-W22,Service Request,P2,Open,API Gateway,ATJ,Phone,Engineer 16,Engineer 04,2.3,24,NA
+TCK-00505,2026-05-23 08:01:00,2026-05-26 08:01:00,2026-W20,Incident,P4,Closed,API Gateway,ATD,Email,Engineer 02,Engineer 02,10.89,120,NA
+TCK-00506,2026-05-29 00:00:00,,2026-W21,Incident,P3,Pending,SAP,ATD,Monitoring,Engineer 04,Engineer 06,8.81,72,NA
+TCK-00507,2026-04-20 14:35:00,2026-04-22 04:35:00,2026-W16,Incident,P3,Resolved,MES,AC,Email,Engineer 10,Engineer 10,8.42,72,NA
+TCK-00508,2026-06-03 02:00:00,,2026-W22,Incident,P2,In Progress,MES,ATD,Phone,Engineer 14,Engineer 04,2.04,24,NA
+TCK-00509,2026-05-16 14:50:00,2026-05-20 00:50:00,2026-W19,Incident,P3,Resolved,Finance System,ATD II,Monitoring,Engineer 01,Engineer 01,7.7,72,NA
+TCK-00510,2026-06-02 15:00:00,,2026-W22,Incident,P4,Open,HR System,ATJ,Email,Engineer 07,Engineer 01,14.55,120,NA
+TCK-00511,2026-04-04 16:20:00,2026-04-07 01:20:00,2026-W13,Incident,P2,Closed,MES,ATD,Teams,Engineer 15,Engineer 15,3.63,24,NA
+TCK-00512,2026-05-02 13:23:00,2026-05-08 09:23:00,2026-W17,Hot Fix,P4,Closed,MES,ATJ,Email,Engineer 14,Engineer 14,15.01,120,NA
+TCK-00513,2026-04-08 18:55:00,2026-04-11 08:55:00,2026-W14,Service Request,P2,Resolved,Finance System,AC,Service Portal,Engineer 11,Engineer 11,5.61,24,NA
+TCK-00514,2026-05-02 15:54:00,2026-05-06 18:54:00,2026-W17,Incident,P4,Closed,MES,ATD II,Phone,Engineer 01,Engineer 01,12.47,120,NA
+TCK-00515,2026-05-30 16:00:00,,2026-W21,Change Request,P4,In Progress,SAP,ATJ,Service Portal,Engineer 08,Engineer 04,4.13,120,Normal Change
+TCK-00516,2026-05-31 08:00:00,,2026-W22,Incident,P3,In Progress,API Gateway,ATJ,Phone,Engineer 11,Engineer 15,3.54,72,NA
+TCK-00517,2026-03-25 16:23:00,2026-03-29 16:23:00,2026-W12,Change Request,P4,Resolved,API Gateway,AC,Phone,Engineer 14,Engineer 14,32.24,120,Normal Change
+TCK-00518,2026-05-31 16:00:00,,2026-W22,Incident,P3,Open,WMS,ATD,Service Portal,Engineer 15,Engineer 14,7.69,72,NA
+TCK-00519,2026-06-02 11:00:00,,2026-W22,Service Request,P3,Pending,Finance System,ATJ,Teams,Engineer 16,Engineer 16,3.54,72,NA
+TCK-00520,2026-05-05 19:38:00,2026-05-09 04:38:00,2026-W18,Hot Fix,P4,Resolved,SAP,ATD II,Email,Engineer 03,Engineer 03,13.95,120,NA
+TCK-00521,2026-04-25 08:57:00,2026-04-27 08:57:00,2026-W16,Incident,P3,Closed,WMS,ATJ,Service Portal,Engineer 05,Engineer 05,16.36,72,NA
+TCK-00522,2026-06-02 03:00:00,,2026-W22,Incident,P2,In Progress,MES,AC,Phone,Engineer 14,Engineer 11,3.37,24,NA
+TCK-00523,2026-06-03 10:00:00,,2026-W22,Incident,P1,Open,MES,ATD,Phone,Engineer 16,Engineer 06,0.25,8,NA
+TCK-00524,2026-06-02 07:00:00,,2026-W22,Incident,P2,Pending,WMS,ATD II,Service Portal,Engineer 18,Engineer 05,2.55,24,NA
+TCK-00525,2026-06-03 04:00:00,,2026-W22,Service Request,P2,Open,AP Portal,AC,Teams,Engineer 10,Engineer 07,2.81,24,NA
+TCK-00526,2026-06-03 11:00:00,,2026-W22,Change Request,P2,Open,MES,ATJ,Phone,Engineer 12,Engineer 13,4.78,24,Normal Change
+TCK-00527,2026-05-01 08:28:00,2026-05-05 10:28:00,2026-W17,Incident,P3,Resolved,API Gateway,ATD,Teams,Engineer 07,Engineer 07,4.4,72,NA
+TCK-00528,2026-03-30 08:00:00,2026-04-03 13:00:00,2026-W13,Service Request,P3,Resolved,WMS,AC,Monitoring,Engineer 14,Engineer 14,13.6,72,NA
+TCK-00529,2026-05-27 23:00:00,,2026-W21,Incident,P1,Pending,SAP,ATD,Email,Engineer 05,Engineer 08,0.62,8,NA
+TCK-00530,2026-06-04 04:00:00,,2026-W22,Incident,P4,Pending,Finance System,ATD II,Monitoring,Engineer 11,Engineer 14,8.68,120,NA
+TCK-00531,2026-04-19 15:41:00,2026-04-24 00:41:00,2026-W16,Incident,P3,Closed,API Gateway,ATJ,Service Portal,Engineer 12,Engineer 12,14.15,72,NA
+TCK-00532,2026-06-04 08:00:00,,2026-W22,Incident,P2,Pending,API Gateway,ATD II,Service Portal,Engineer 18,Engineer 18,3.77,24,NA
+TCK-00533,2026-06-02 10:00:00,,2026-W22,Incident,P2,Open,WMS,ATJ,Phone,Engineer 11,Engineer 03,1.24,24,NA
+TCK-00534,2026-06-03 04:00:00,,2026-W22,Incident,P3,Open,AP Portal,ATD,Monitoring,Engineer 04,Engineer 05,7.35,72,NA
+TCK-00535,2026-06-02 08:00:00,,2026-W22,Incident,P3,Pending,API Gateway,ATD,Service Portal,Engineer 01,Engineer 06,5.5,72,NA
+TCK-00536,2026-04-18 14:33:00,2026-04-19 15:33:00,2026-W15,Change Request,P3,Closed,SAP,ATD,Phone,Engineer 12,Engineer 12,14.52,72,Standard Change
+TCK-00537,2026-06-03 02:00:00,,2026-W22,Service Request,P3,Open,SAP,ATJ,Teams,Engineer 07,Engineer 18,10.09,72,NA
+TCK-00538,2026-03-31 19:14:00,2026-04-04 15:14:00,2026-W13,Incident,P3,Resolved,Quality System,ATD II,Phone,Engineer 02,Engineer 02,10.78,72,NA
+TCK-00539,2026-06-01 09:00:00,,2026-W22,Incident,P3,In Progress,HR System,ATJ,Phone,Engineer 17,Engineer 17,17.98,72,NA
+TCK-00540,2026-05-04 14:29:00,2026-05-06 20:29:00,2026-W18,Service Request,P2,Resolved,MES,AC,Phone,Engineer 12,Engineer 12,3.04,24,NA
+TCK-00541,2026-04-01 12:34:00,2026-04-02 01:34:00,2026-W13,Change Request,P3,Closed,MES,ATJ,Phone,Engineer 12,Engineer 12,13.85,72,Emergency Change
+TCK-00542,2026-06-04 10:00:00,,2026-W22,Service Request,P2,In Progress,SAP,ATJ,Monitoring,Engineer 03,Engineer 17,4.63,24,NA
+TCK-00543,2026-06-02 08:00:00,,2026-W22,Incident,P3,Open,SAP,ATD,Teams,Engineer 03,Engineer 15,14.06,72,NA
+TCK-00544,2026-03-29 12:42:00,2026-03-31 14:42:00,2026-W13,Service Request,P2,Resolved,Finance System,AC,Teams,Engineer 03,Engineer 03,4.97,24,NA
+TCK-00545,2026-06-03 12:00:00,,2026-W22,Service Request,P1,Pending,WMS,ATD,Service Portal,Engineer 01,Engineer 14,0.73,8,NA
+TCK-00546,2026-05-20 12:39:00,2026-05-24 05:39:00,2026-W20,Service Request,P3,Resolved,Quality System,AC,Service Portal,Engineer 12,Engineer 12,13.22,72,NA
+TCK-00547,2026-05-18 09:18:00,2026-05-20 08:18:00,2026-W20,Incident,P2,Closed,SAP,AC,Phone,Engineer 11,Engineer 11,2.91,24,NA
+TCK-00548,2026-05-26 17:34:00,2026-05-29 21:34:00,2026-W21,Service Request,P3,Resolved,AP Portal,ATJ,Teams,Engineer 18,Engineer 18,8.96,72,NA
+TCK-00549,2026-05-28 13:54:00,,2026-W21,Change Request,P4,Open,AP Portal,AC,Email,Engineer 13,Engineer 03,4.3,120,Normal Change
+TCK-00550,2026-05-18 19:00:00,2026-05-19 22:00:00,2026-W20,Service Request,P4,Closed,SAP,AC,Service Portal,Engineer 09,Engineer 09,12.09,120,NA
+TCK-00551,2026-03-29 17:17:00,2026-03-30 18:17:00,2026-W13,Incident,P3,Closed,SAP,ATD,Phone,Engineer 13,Engineer 13,7.78,72,NA
+TCK-00552,2026-05-29 21:00:00,,2026-W21,Incident,P2,Pending,HR System,ATD II,Email,Engineer 02,Engineer 02,2.46,24,NA
+TCK-00553,2026-06-04 13:00:00,,2026-W22,Change Request,P3,Pending,WMS,ATD,Email,Engineer 05,Engineer 10,11.77,72,Normal Change
+TCK-00554,2026-04-02 14:58:00,2026-04-05 16:58:00,2026-W13,Service Request,P3,Closed,Finance System,ATJ,Monitoring,Engineer 05,Engineer 05,17.78,72,NA
+TCK-00555,2026-06-02 21:00:00,,2026-W22,Change Request,P4,Pending,WMS,ATJ,Service Portal,Engineer 07,Engineer 01,15.42,120,Emergency Change
+TCK-00556,2026-04-24 15:09:00,2026-04-26 15:09:00,2026-W16,Service Request,P2,Resolved,SAP,AC,Email,Engineer 05,Engineer 05,3.11,24,NA
+TCK-00557,2026-05-01 18:56:00,2026-05-05 02:56:00,2026-W17,Change Request,P3,Resolved,SAP,AC,Phone,Engineer 13,Engineer 13,7.5,72,Normal Change
+TCK-00558,2026-04-13 14:10:00,2026-04-19 15:10:00,2026-W15,Incident,P4,Closed,API Gateway,AC,Service Portal,Engineer 03,Engineer 03,17.78,120,NA
+TCK-00559,2026-06-01 19:45:00,,2026-W22,Service Request,P3,Open,AP Portal,ATD II,Service Portal,Engineer 16,Engineer 12,1.32,72,NA
+TCK-00560,2026-06-03 20:00:00,,2026-W22,Incident,P2,Pending,AP Portal,AC,Email,Engineer 03,Engineer 03,1.66,24,NA
+TCK-00561,2026-06-04 13:00:00,,2026-W22,Incident,P3,In Progress,MES,AC,Email,Engineer 11,Engineer 12,16.07,72,NA
+TCK-00562,2026-05-29 13:00:00,,2026-W21,Change Request,P4,Pending,Finance System,ATJ,Phone,Engineer 18,Engineer 02,21.08,120,Standard Change
+TCK-00563,2026-04-07 13:54:00,2026-04-08 01:54:00,2026-W14,Incident,P4,Cancelled,API Gateway,ATD,Email,Engineer 13,Engineer 11,16.94,120,NA
+TCK-00564,2026-06-03 15:00:00,,2026-W22,Incident,P3,In Progress,MES,ATD II,Email,Engineer 05,Engineer 08,5.89,72,NA
+TCK-00565,2026-06-04 02:00:00,,2026-W22,Change Request,P2,Pending,MES,ATJ,Service Portal,Engineer 09,Engineer 09,3.21,24,Normal Change
+TCK-00566,2026-06-02 14:00:00,,2026-W22,Change Request,P2,Open,AP Portal,ATD,Phone,Engineer 07,Engineer 04,2.01,24,Normal Change
+TCK-00567,2026-03-28 18:46:00,2026-03-30 11:46:00,2026-W12,Service Request,P2,Resolved,API Gateway,AC,Email,Engineer 02,Engineer 02,3.74,24,NA
+TCK-00568,2026-06-01 04:00:00,,2026-W22,Service Request,P3,In Progress,SAP,ATD II,Monitoring,Engineer 09,Engineer 13,4.57,72,NA
+TCK-00569,2026-05-27 18:37:00,2026-05-29 17:37:00,2026-W21,Service Request,P2,Closed,SAP,AC,Email,Engineer 08,Engineer 08,3.1,24,NA
+TCK-00570,2026-04-04 18:53:00,2026-04-05 19:53:00,2026-W13,Incident,P4,Resolved,Finance System,ATD II,Monitoring,Engineer 16,Engineer 16,18.0,120,NA
+TCK-00571,2026-03-28 08:11:00,2026-03-31 12:11:00,2026-W12,Change Request,P3,Resolved,API Gateway,AC,Service Portal,Engineer 14,Engineer 14,2.54,72,Normal Change
+TCK-00572,2026-06-02 22:00:00,,2026-W22,Service Request,P3,In Progress,Finance System,AC,Email,Engineer 17,Engineer 05,5.94,72,NA
+TCK-00573,2026-06-01 23:00:00,,2026-W22,Service Request,P3,Pending,HR System,ATD,Teams,Engineer 04,Engineer 18,8.15,72,NA
+TCK-00574,2026-05-14 08:16:00,2026-05-19 14:16:00,2026-W19,Incident,P4,Closed,SAP,AC,Monitoring,Engineer 03,Engineer 03,11.71,120,NA
+TCK-00575,2026-05-29 14:00:00,,2026-W21,Service Request,P3,Pending,SAP,ATD II,Service Portal,Engineer 02,Engineer 15,12.34,72,NA
+TCK-00576,2026-05-31 00:00:00,,2026-W22,Incident,P2,In Progress,HR System,ATJ,Monitoring,Engineer 16,Engineer 13,2.45,24,NA
+TCK-00577,2026-06-01 05:00:00,,2026-W22,Incident,P3,In Progress,Quality System,ATJ,Monitoring,Engineer 13,Engineer 15,4.42,72,NA
+TCK-00578,2026-04-19 13:02:00,2026-04-20 14:02:00,2026-W16,Incident,P2,Cancelled,MES,ATJ,Email,Engineer 07,Engineer 08,3.63,24,NA
+TCK-00579,2026-06-03 07:00:00,,2026-W22,Incident,P4,Open,MES,ATJ,Teams,Engineer 08,Engineer 17,0.25,120,NA
+TCK-00580,2026-06-04 01:00:00,,2026-W22,Service Request,P2,In Progress,WMS,AC,Monitoring,Engineer 13,Engineer 13,4.96,24,NA
+TCK-00581,2026-05-05 10:49:00,2026-05-07 03:49:00,2026-W18,Change Request,P2,Cancelled,SAP,AC,Monitoring,Engineer 09,Engineer 13,0.25,24,Normal Change
+TCK-00582,2026-06-03 11:00:00,,2026-W22,Service Request,P3,Pending,SAP,ATD,Teams,Engineer 01,Engineer 17,10.04,72,NA
+TCK-00583,2026-04-22 12:30:00,2026-04-22 18:30:00,2026-W16,Incident,P2,Closed,Quality System,ATJ,Email,Engineer 14,Engineer 14,2.17,24,NA
+TCK-00584,2026-03-26 12:59:00,2026-03-28 18:59:00,2026-W12,Hot Fix,P2,Closed,AP Portal,ATD,Teams,Engineer 13,Engineer 13,2.33,24,NA
+TCK-00585,2026-05-05 14:42:00,2026-05-14 01:42:00,2026-W18,Service Request,P3,Resolved,Quality System,AC,Email,Engineer 03,Engineer 03,7.06,72,NA
+TCK-00586,2026-04-18 13:33:00,2026-04-21 23:33:00,2026-W15,Service Request,P3,Closed,Finance System,ATD,Teams,Engineer 15,Engineer 15,10.34,72,NA
+TCK-00587,2026-05-31 16:00:00,,2026-W22,Service Request,P4,Pending,API Gateway,ATJ,Monitoring,Engineer 03,Engineer 01,13.54,120,NA
+TCK-00588,2026-05-29 15:13:00,2026-06-01 13:13:00,2026-W21,Hot Fix,P3,Closed,SAP,ATD II,Phone,Engineer 02,Engineer 02,6.09,72,NA
+TCK-00589,2026-06-04 06:00:00,,2026-W22,Service Request,P3,In Progress,SAP,AC,Monitoring,Engineer 02,Engineer 18,14.53,72,NA
+TCK-00590,2026-06-04 14:00:00,,2026-W22,Hot Fix,P3,Open,Quality System,ATD,Monitoring,Engineer 15,Engineer 08,19.27,72,NA
+TCK-00591,2026-03-30 16:20:00,2026-04-01 11:20:00,2026-W13,Incident,P1,Resolved,API Gateway,ATJ,Phone,Engineer 05,Engineer 05,1.36,8,NA
+TCK-00592,2026-06-01 03:00:00,,2026-W22,Change Request,P4,Pending,AP Portal,ATD II,Phone,Engineer 02,Engineer 09,25.05,120,Emergency Change
+TCK-00593,2026-06-03 10:00:00,,2026-W22,Service Request,P2,Open,API Gateway,ATD II,Teams,Engineer 16,Engineer 06,4.46,24,NA
+TCK-00594,2026-05-29 15:28:00,,2026-W21,Change Request,P4,Pending,Quality System,ATD,Service Portal,Engineer 17,Engineer 01,24.32,120,Normal Change
+TCK-00595,2026-06-03 09:00:00,,2026-W22,Service Request,P2,In Progress,Finance System,ATD II,Email,Engineer 07,Engineer 07,4.68,24,NA
+TCK-00596,2026-05-30 05:00:00,,2026-W21,Service Request,P4,Pending,AP Portal,ATD,Phone,Engineer 01,Engineer 05,19.21,120,NA
+TCK-00597,2026-05-04 09:09:00,2026-05-07 15:09:00,2026-W18,Incident,P3,Closed,MES,AC,Service Portal,Engineer 08,Engineer 08,8.3,72,NA
+TCK-00598,2026-05-28 10:00:00,,2026-W21,Service Request,P1,Pending,API Gateway,ATD II,Monitoring,Engineer 17,Engineer 15,1.11,8,NA
+TCK-00599,2026-04-09 18:04:00,2026-04-11 00:04:00,2026-W14,Change Request,P1,Closed,WMS,ATJ,Service Portal,Engineer 06,Engineer 06,0.25,8,Normal Change
+TCK-00600,2026-06-02 05:00:00,,2026-W22,Incident,P4,Open,MES,ATD,Service Portal,Engineer 17,Engineer 11,6.72,120,NA
+TCK-00601,2026-04-19 08:53:00,2026-04-21 19:53:00,2026-W16,Hot Fix,P3,Closed,API Gateway,ATD II,Service Portal,Engineer 14,Engineer 14,10.59,72,NA
+TCK-00602,2026-04-12 19:19:00,2026-04-17 13:19:00,2026-W15,Incident,P4,Resolved,SAP,AC,Phone,Engineer 15,Engineer 15,25.42,120,NA
+TCK-00603,2026-05-04 14:29:00,2026-05-09 10:29:00,2026-W18,Change Request,P2,Resolved,API Gateway,ATD II,Monitoring,Engineer 14,Engineer 14,3.47,24,Standard Change
+TCK-00604,2026-03-30 14:24:00,2026-04-02 18:24:00,2026-W13,Service Request,P3,Closed,Finance System,ATD,Phone,Engineer 04,Engineer 04,13.67,72,NA
+TCK-00605,2026-03-31 17:18:00,2026-04-03 03:18:00,2026-W13,Change Request,P2,Resolved,MES,ATJ,Email,Engineer 11,Engineer 11,5.21,24,Standard Change
+TCK-00606,2026-06-03 22:00:00,,2026-W22,Change Request,P2,In Progress,MES,AC,Service Portal,Engineer 01,Engineer 12,4.19,24,Normal Change
+TCK-00607,2026-06-04 00:00:00,,2026-W22,Incident,P1,In Progress,SAP,ATD II,Email,Engineer 06,Engineer 09,1.51,8,NA
+TCK-00608,2026-04-29 19:25:00,2026-04-30 08:25:00,2026-W17,Change Request,P4,Resolved,HR System,ATD,Phone,Engineer 11,Engineer 11,21.8,120,Normal Change
+TCK-00609,2026-03-30 10:29:00,2026-04-03 01:29:00,2026-W13,Service Request,P4,Closed,Finance System,ATJ,Monitoring,Engineer 11,Engineer 11,33.0,120,NA
+TCK-00610,2026-03-27 17:18:00,2026-03-29 07:18:00,2026-W12,Service Request,P1,Resolved,MES,ATJ,Email,Engineer 15,Engineer 15,1.63,8,NA
+TCK-00611,2026-05-02 12:06:00,2026-05-08 06:06:00,2026-W17,Incident,P4,Resolved,HR System,ATJ,Email,Engineer 15,Engineer 15,19.22,120,NA
+TCK-00612,2026-03-25 10:52:00,2026-03-30 08:52:00,2026-W12,Hot Fix,P3,Closed,MES,AC,Phone,Engineer 03,Engineer 03,16.41,72,NA
+TCK-00613,2026-03-19 10:36:00,2026-03-22 02:36:00,2026-W11,Incident,P3,Resolved,AP Portal,ATD,Monitoring,Engineer 06,Engineer 06,5.06,72,NA
+TCK-00614,2026-06-02 21:00:00,,2026-W22,Incident,P1,In Progress,WMS,ATJ,Email,Engineer 10,Engineer 03,2.22,8,NA
+TCK-00615,2026-06-03 11:00:00,,2026-W22,Incident,P3,In Progress,API Gateway,ATJ,Phone,Engineer 14,Engineer 07,6.48,72,NA
+TCK-00616,2026-06-03 03:00:00,,2026-W22,Change Request,P4,In Progress,AP Portal,ATD,Teams,Engineer 05,Engineer 17,21.62,120,Emergency Change
+TCK-00617,2026-03-26 16:11:00,2026-03-30 04:11:00,2026-W12,Hot Fix,P3,Closed,AP Portal,AC,Teams,Engineer 16,Engineer 16,6.51,72,NA
+TCK-00618,2026-06-02 19:00:00,,2026-W22,Service Request,P3,Open,WMS,AC,Email,Engineer 18,Engineer 08,11.74,72,NA
+TCK-00619,2026-06-02 07:00:00,,2026-W22,Incident,P3,In Progress,MES,AC,Teams,Engineer 03,Engineer 08,4.9,72,NA
+TCK-00620,2026-06-03 09:00:00,,2026-W22,Incident,P3,In Progress,API Gateway,ATD II,Teams,Engineer 07,Engineer 15,17.66,72,NA
+TCK-00621,2026-05-31 12:00:00,,2026-W22,Service Request,P1,Pending,MES,ATD,Monitoring,Engineer 14,Engineer 11,0.5,8,NA
+TCK-00622,2026-06-02 13:00:00,,2026-W22,Incident,P3,Pending,Quality System,ATD,Teams,Engineer 01,Engineer 02,11.98,72,NA
+TCK-00623,2026-06-01 18:00:00,,2026-W22,Incident,P3,Pending,MES,AC,Teams,Engineer 10,Engineer 02,19.35,72,NA
+TCK-00624,2026-05-13 08:27:00,2026-05-16 21:27:00,2026-W19,Service Request,P3,Resolved,SAP,ATD,Email,Engineer 16,Engineer 16,13.89,72,NA
+TCK-00625,2026-05-15 17:52:00,2026-05-18 00:52:00,2026-W19,Service Request,P2,Resolved,API Gateway,ATD II,Email,Engineer 15,Engineer 15,4.81,24,NA
+TCK-00626,2026-03-27 16:59:00,2026-03-27 17:59:00,2026-W12,Incident,P3,Resolved,SAP,ATD II,Phone,Engineer 17,Engineer 17,8.43,72,NA
+TCK-00627,2026-04-13 11:00:00,2026-04-14 20:00:00,2026-W15,Service Request,P3,Resolved,HR System,ATD,Teams,Engineer 01,Engineer 01,12.62,72,NA
+TCK-00628,2026-06-03 08:00:00,,2026-W22,Hot Fix,P1,In Progress,SAP,AC,Teams,Engineer 18,Engineer 17,1.47,8,NA
+TCK-00629,2026-05-31 11:00:00,,2026-W22,Change Request,P4,Pending,MES,ATD,Teams,Engineer 07,Engineer 06,26.24,120,Emergency Change
+TCK-00630,2026-03-30 10:53:00,2026-04-06 06:53:00,2026-W13,Change Request,P4,Resolved,AP Portal,ATD,Email,Engineer 08,Engineer 08,6.15,120,Normal Change
+TCK-00631,2026-03-23 09:33:00,2026-03-26 18:33:00,2026-W12,Change Request,P4,Resolved,HR System,ATJ,Teams,Engineer 06,Engineer 06,10.67,120,Normal Change
+TCK-00632,2026-06-03 14:00:00,,2026-W22,Incident,P2,Pending,MES,ATJ,Phone,Engineer 13,Engineer 07,3.09,24,NA
+TCK-00633,2026-04-10 09:57:00,2026-04-11 12:57:00,2026-W14,Incident,P4,Closed,HR System,ATJ,Monitoring,Engineer 18,Engineer 18,15.04,120,NA
+TCK-00634,2026-06-03 23:00:00,,2026-W22,Incident,P1,In Progress,Finance System,ATD,Phone,Engineer 05,Engineer 05,1.14,8,NA
+TCK-00635,2026-05-31 20:00:00,,2026-W22,Hot Fix,P3,Pending,SAP,ATJ,Phone,Engineer 03,Engineer 05,12.33,72,NA
+TCK-00636,2026-04-13 16:11:00,2026-04-16 12:11:00,2026-W15,Incident,P3,Closed,SAP,ATJ,Teams,Engineer 09,Engineer 09,4.26,72,NA
+TCK-00637,2026-05-11 12:19:00,2026-05-15 21:19:00,2026-W19,Incident,P3,Resolved,WMS,ATD,Service Portal,Engineer 11,Engineer 11,11.75,72,NA
+TCK-00638,2026-04-12 14:44:00,2026-04-12 18:44:00,2026-W15,Incident,P4,Resolved,HR System,ATD,Teams,Engineer 17,Engineer 17,13.14,120,NA
+TCK-00639,2026-05-28 21:00:00,,2026-W21,Change Request,P3,In Progress,MES,AC,Teams,Engineer 02,Engineer 09,6.69,72,Normal Change
+TCK-00640,2026-03-29 16:19:00,2026-03-31 00:19:00,2026-W13,Incident,P3,Closed,SAP,AC,Phone,Engineer 03,Engineer 03,10.79,72,NA
+TCK-00641,2026-06-02 13:00:00,,2026-W22,Service Request,P3,In Progress,Finance System,ATJ,Phone,Engineer 08,Engineer 18,13.67,72,NA
+TCK-00642,2026-05-02 15:05:00,2026-05-05 20:05:00,2026-W17,Incident,P4,Closed,API Gateway,AC,Teams,Engineer 02,Engineer 02,6.07,120,NA
+TCK-00643,2026-06-04 09:00:00,,2026-W22,Service Request,P3,Open,AP Portal,ATD,Service Portal,Engineer 11,Engineer 13,4.99,72,NA
+TCK-00644,2026-05-29 13:00:00,,2026-W21,Change Request,P4,Pending,Finance System,ATD,Monitoring,Engineer 05,Engineer 03,16.48,120,Normal Change
+TCK-00645,2026-06-02 19:00:00,,2026-W22,Service Request,P2,Open,API Gateway,ATD II,Service Portal,Engineer 08,Engineer 03,1.39,24,NA
+TCK-00646,2026-05-30 12:00:00,,2026-W21,Hot Fix,P4,Open,Finance System,ATJ,Email,Engineer 07,Engineer 01,21.67,120,NA
+TCK-00647,2026-05-04 18:55:00,2026-05-08 12:55:00,2026-W18,Service Request,P3,Resolved,SAP,ATD,Monitoring,Engineer 07,Engineer 07,2.86,72,NA
+TCK-00648,2026-05-28 23:00:00,,2026-W21,Service Request,P3,Pending,AP Portal,ATD,Service Portal,Engineer 08,Engineer 11,15.68,72,NA
+TCK-00649,2026-04-28 12:13:00,2026-05-02 12:13:00,2026-W17,Hot Fix,P3,Resolved,SAP,ATD II,Email,Engineer 01,Engineer 01,15.9,72,NA
+TCK-00650,2026-06-01 17:00:00,,2026-W22,Service Request,P4,Pending,SAP,ATD,Phone,Engineer 13,Engineer 14,7.37,120,NA
+TCK-00651,2026-03-28 17:44:00,2026-03-30 19:44:00,2026-W12,Incident,P3,Resolved,MES,ATD,Phone,Engineer 07,Engineer 07,15.92,72,NA
+TCK-00652,2026-05-27 08:38:00,2026-05-28 15:38:00,2026-W21,Incident,P1,Closed,AP Portal,AC,Teams,Engineer 17,Engineer 17,0.9,8,NA
+TCK-00653,2026-05-13 10:20:00,2026-05-17 10:20:00,2026-W19,Service Request,P3,Closed,MES,ATD,Service Portal,Engineer 03,Engineer 03,14.63,72,NA
+TCK-00654,2026-06-03 20:00:00,,2026-W22,Incident,P3,Open,MES,ATJ,Email,Engineer 03,Engineer 18,7.26,72,NA
+TCK-00655,2026-04-28 08:37:00,2026-04-28 13:37:00,2026-W17,Incident,P4,Resolved,API Gateway,AC,Service Portal,Engineer 14,Engineer 14,24.08,120,NA
+TCK-00656,2026-03-30 09:15:00,2026-03-31 14:15:00,2026-W13,Hot Fix,P3,Resolved,SAP,ATJ,Service Portal,Engineer 18,Engineer 18,9.04,72,NA
+TCK-00657,2026-05-28 11:35:00,,2026-W21,Change Request,P4,In Progress,AP Portal,ATD,Monitoring,Engineer 01,Engineer 10,20.78,120,Normal Change
+TCK-00658,2026-05-29 19:44:00,2026-05-30 19:44:00,2026-W21,Incident,P2,Closed,SAP,ATD,Phone,Engineer 03,Engineer 03,2.41,24,NA
+TCK-00659,2026-03-18 08:29:00,2026-03-21 04:29:00,2026-W11,Incident,P3,Closed,Finance System,AC,Monitoring,Engineer 05,Engineer 05,5.79,72,NA
+TCK-00660,2026-06-02 19:00:00,,2026-W22,Change Request,P3,Pending,SAP,ATD II,Phone,Engineer 06,Engineer 06,2.97,72,Emergency Change
+TCK-00661,2026-06-04 13:00:00,,2026-W22,Change Request,P2,Open,AP Portal,ATD,Phone,Engineer 01,Engineer 16,4.04,24,Normal Change
+TCK-00662,2026-06-01 10:24:00,2026-06-04 11:24:00,2026-W22,Hot Fix,P3,Resolved,MES,ATJ,Email,Engineer 10,Engineer 10,10.36,72,NA
+TCK-00663,2026-03-16 09:46:00,2026-03-20 16:46:00,2026-W11,Incident,P4,Closed,SAP,AC,Teams,Engineer 03,Engineer 03,9.5,120,NA
+TCK-00664,2026-06-01 21:00:00,,2026-W22,Service Request,P3,In Progress,WMS,ATD,Teams,Engineer 16,Engineer 02,5.38,72,NA
+TCK-00665,2026-06-03 22:00:00,,2026-W22,Change Request,P3,In Progress,WMS,ATD II,Phone,Engineer 06,Engineer 05,9.89,72,Standard Change
+TCK-00666,2026-06-02 02:00:00,,2026-W22,Incident,P2,In Progress,HR System,ATD II,Monitoring,Engineer 07,Engineer 05,5.26,24,NA
+TCK-00667,2026-05-31 00:00:00,,2026-W22,Service Request,P3,Pending,API Gateway,AC,Phone,Engineer 14,Engineer 01,0.73,72,NA
+TCK-00668,2026-06-03 08:00:00,,2026-W22,Service Request,P2,Open,Finance System,ATJ,Email,Engineer 07,Engineer 04,4.7,24,NA
+TCK-00669,2026-04-17 18:33:00,2026-04-21 04:33:00,2026-W15,Service Request,P3,Closed,SAP,AC,Service Portal,Engineer 05,Engineer 05,13.47,72,NA
+TCK-00670,2026-06-01 03:00:00,,2026-W22,Incident,P4,In Progress,SAP,ATD,Monitoring,Engineer 12,Engineer 11,29.67,120,NA
+TCK-00671,2026-06-04 13:00:00,,2026-W22,Incident,P3,In Progress,AP Portal,AC,Service Portal,Engineer 16,Engineer 17,18.73,72,NA
+TCK-00672,2026-04-06 09:55:00,2026-04-06 11:55:00,2026-W14,Change Request,P2,Closed,HR System,ATJ,Service Portal,Engineer 16,Engineer 16,5.28,24,Normal Change
+TCK-00673,2026-05-11 15:28:00,2026-05-13 17:28:00,2026-W19,Service Request,P4,Closed,Quality System,AC,Phone,Engineer 05,Engineer 05,37.17,120,NA
+TCK-00674,2026-05-30 10:00:00,,2026-W21,Hot Fix,P4,Pending,Quality System,ATJ,Teams,Engineer 10,Engineer 09,7.77,120,NA
+TCK-00675,2026-04-27 09:50:00,2026-05-04 17:50:00,2026-W17,Change Request,P3,Resolved,AP Portal,AC,Teams,Engineer 15,Engineer 15,16.99,72,Normal Change
+TCK-00676,2026-06-02 01:00:00,,2026-W22,Change Request,P3,In Progress,Quality System,ATD,Service Portal,Engineer 10,Engineer 06,15.08,72,Normal Change
+TCK-00677,2026-04-14 10:05:00,2026-04-15 15:05:00,2026-W15,Service Request,P3,Resolved,MES,ATD II,Monitoring,Engineer 18,Engineer 18,20.53,72,NA
+TCK-00678,2026-05-29 07:00:00,,2026-W21,Incident,P4,In Progress,WMS,ATD,Phone,Engineer 08,Engineer 11,25.84,120,NA
+TCK-00679,2026-04-09 12:39:00,2026-04-10 10:39:00,2026-W14,Change Request,P2,Closed,SAP,ATD II,Monitoring,Engineer 05,Engineer 05,4.24,24,Normal Change
+TCK-00680,2026-04-30 13:45:00,2026-05-03 03:45:00,2026-W17,Incident,P3,Closed,Quality System,ATD,Service Portal,Engineer 03,Engineer 03,7.25,72,NA
+TCK-00681,2026-06-01 16:00:00,,2026-W22,Service Request,P3,Pending,Finance System,AC,Monitoring,Engineer 13,Engineer 06,14.74,72,NA
+TCK-00682,2026-06-03 23:00:00,,2026-W22,Incident,P3,In Progress,SAP,ATD,Service Portal,Engineer 06,Engineer 17,10.06,72,NA
+TCK-00683,2026-06-02 07:00:00,,2026-W22,Change Request,P2,Pending,Finance System,ATD II,Teams,Engineer 01,Engineer 07,4.93,24,Standard Change
+TCK-00684,2026-06-03 14:00:00,,2026-W22,Change Request,P2,Pending,Finance System,ATJ,Service Portal,Engineer 05,Engineer 12,3.86,24,Standard Change
+TCK-00685,2026-04-14 10:34:00,2026-04-16 18:34:00,2026-W15,Change Request,P3,Resolved,AP Portal,ATJ,Email,Engineer 12,Engineer 12,20.43,72,Normal Change
+TCK-00686,2026-06-03 07:00:00,,2026-W22,Service Request,P3,Open,Finance System,AC,Service Portal,Engineer 16,Engineer 06,15.02,72,NA
+TCK-00687,2026-06-03 23:00:00,,2026-W22,Change Request,P3,In Progress,WMS,ATJ,Teams,Engineer 10,Engineer 06,4.63,72,Emergency Change
+TCK-00688,2026-06-02 00:00:00,,2026-W22,Incident,P3,In Progress,Quality System,AC,Monitoring,Engineer 05,Engineer 10,7.43,72,NA
+TCK-00689,2026-04-30 13:57:00,2026-05-02 23:57:00,2026-W17,Incident,P4,Closed,AP Portal,ATD,Monitoring,Engineer 03,Engineer 03,18.88,120,NA
+TCK-00690,2026-05-27 21:00:00,,2026-W21,Change Request,P3,Pending,MES,ATD,Service Portal,Engineer 13,Engineer 13,11.57,72,Emergency Change
+TCK-00691,2026-04-02 15:08:00,2026-04-03 08:08:00,2026-W13,Hot Fix,P2,Closed,WMS,ATD,Service Portal,Engineer 16,Engineer 16,3.34,24,NA
+TCK-00692,2026-05-04 15:46:00,2026-05-04 18:46:00,2026-W18,Service Request,P1,Closed,Finance System,ATD,Email,Engineer 14,Engineer 14,0.43,8,NA
+TCK-00693,2026-03-21 10:39:00,2026-03-30 00:39:00,2026-W11,Incident,P4,Resolved,Quality System,ATD,Monitoring,Engineer 01,Engineer 01,8.02,120,NA
+TCK-00694,2026-04-11 12:20:00,2026-04-14 01:20:00,2026-W14,Incident,P3,Closed,MES,AC,Teams,Engineer 10,Engineer 10,13.55,72,NA
+TCK-00695,2026-06-04 13:00:00,,2026-W22,Service Request,P4,In Progress,WMS,ATJ,Service Portal,Engineer 06,Engineer 09,10.73,120,NA
+TCK-00696,2026-05-31 06:00:00,,2026-W22,Incident,P3,In Progress,Finance System,ATJ,Teams,Engineer 06,Engineer 05,15.02,72,NA
+TCK-00697,2026-06-02 11:16:00,2026-06-03 06:16:00,2026-W22,Service Request,P2,Resolved,SAP,ATD,Service Portal,Engineer 03,Engineer 03,2.79,24,NA
+TCK-00698,2026-06-04 00:00:00,,2026-W22,Service Request,P2,Open,SAP,ATD II,Monitoring,Engineer 14,Engineer 08,3.64,24,NA
+TCK-00699,2026-06-04 02:00:00,,2026-W22,Hot Fix,P3,Open,SAP,ATD II,Teams,Engineer 15,Engineer 14,11.28,72,NA
+TCK-00700,2026-06-01 19:00:00,,2026-W22,Change Request,P3,Open,HR System,AC,Monitoring,Engineer 12,Engineer 09,10.92,72,Emergency Change
+TCK-00701,2026-06-01 17:00:00,,2026-W22,Service Request,P3,Open,MES,ATD,Phone,Engineer 13,Engineer 16,11.04,72,NA
+TCK-00702,2026-05-26 20:00:00,,2026-W21,Service Request,P3,In Progress,API Gateway,ATD,Service Portal,Engineer 15,Engineer 03,3.65,72,NA
+TCK-00703,2026-04-02 13:37:00,2026-04-04 18:37:00,2026-W13,Hot Fix,P4,Resolved,HR System,ATJ,Teams,Engineer 05,Engineer 05,5.54,120,NA
+TCK-00704,2026-05-02 13:55:00,2026-05-03 17:55:00,2026-W17,Incident,P4,Resolved,HR System,AC,Service Portal,Engineer 18,Engineer 18,10.63,120,NA
+TCK-00705,2026-06-02 19:38:00,,2026-W22,Incident,P4,In Progress,HR System,AC,Email,Engineer 17,Engineer 06,10.58,120,NA
+TCK-00706,2026-03-18 09:36:00,2026-03-20 01:36:00,2026-W11,Hot Fix,P2,Closed,HR System,ATJ,Teams,Engineer 09,Engineer 09,3.96,24,NA
+TCK-00707,2026-06-04 04:00:00,,2026-W22,Hot Fix,P2,In Progress,SAP,ATD,Teams,Engineer 04,Engineer 14,4.01,24,NA
+TCK-00708,2026-05-05 11:59:00,2026-05-06 07:59:00,2026-W18,Service Request,P1,Closed,Quality System,AC,Teams,Engineer 09,Engineer 09,1.33,8,NA
+TCK-00709,2026-04-20 13:49:00,2026-04-22 03:49:00,2026-W16,Change Request,P3,Resolved,Quality System,ATD,Email,Engineer 13,Engineer 13,6.61,72,Normal Change
+TCK-00710,2026-05-19 09:53:00,2026-05-21 21:53:00,2026-W20,Change Request,P3,Closed,HR System,AC,Service Portal,Engineer 02,Engineer 02,9.09,72,Standard Change
+TCK-00711,2026-06-02 19:00:00,,2026-W22,Change Request,P3,Pending,API Gateway,ATD II,Email,Engineer 13,Engineer 01,12.58,72,Standard Change
+TCK-00712,2026-06-01 09:31:00,2026-06-02 01:31:00,2026-W22,Change Request,P3,Closed,SAP,ATD,Email,Engineer 09,Engineer 09,18.86,72,Normal Change
+TCK-00713,2026-05-29 22:00:00,,2026-W21,Incident,P1,Pending,MES,ATJ,Email,Engineer 02,Engineer 14,1.09,8,NA
+TCK-00714,2026-06-02 07:00:00,,2026-W22,Change Request,P3,In Progress,HR System,ATD II,Service Portal,Engineer 11,Engineer 07,15.65,72,Standard Change
+TCK-00715,2026-04-04 11:35:00,2026-04-06 19:35:00,2026-W13,Change Request,P2,Cancelled,SAP,AC,Email,Engineer 09,Engineer 02,3.33,24,Emergency Change
+TCK-00716,2026-06-03 06:00:00,,2026-W22,Service Request,P3,Pending,SAP,AC,Phone,Engineer 04,Engineer 08,11.9,72,NA
+TCK-00717,2026-05-11 08:47:00,2026-05-14 18:47:00,2026-W19,Incident,P4,Closed,HR System,AC,Teams,Engineer 03,Engineer 03,29.57,120,NA
+TCK-00718,2026-05-22 15:00:00,2026-05-22 23:00:00,2026-W20,Incident,P4,Closed,WMS,AC,Monitoring,Engineer 02,Engineer 02,6.21,120,NA
+TCK-00719,2026-06-01 20:00:00,,2026-W22,Change Request,P4,Pending,MES,ATD,Teams,Engineer 08,Engineer 10,4.21,120,Normal Change
+TCK-00720,2026-06-01 14:00:00,,2026-W22,Incident,P2,In Progress,Finance System,ATD II,Monitoring,Engineer 10,Engineer 08,1.12,24,NA
+TCK-00721,2026-06-02 07:00:00,,2026-W22,Incident,P3,In Progress,MES,ATD II,Email,Engineer 06,Engineer 02,9.69,72,NA
+TCK-00722,2026-06-03 23:00:00,,2026-W22,Incident,P2,Pending,HR System,ATD,Email,Engineer 04,Engineer 03,2.92,24,NA
+TCK-00723,2026-05-10 17:18:00,2026-05-12 19:18:00,2026-W19,Service Request,P2,Resolved,SAP,ATJ,Phone,Engineer 07,Engineer 07,2.2,24,NA
+TCK-00724,2026-06-03 03:00:00,,2026-W22,Service Request,P3,In Progress,AP Portal,ATJ,Service Portal,Engineer 15,Engineer 03,7.24,72,NA
+TCK-00725,2026-06-04 02:00:00,,2026-W22,Incident,P2,In Progress,Quality System,ATJ,Email,Engineer 18,Engineer 18,1.23,24,NA
+TCK-00726,2026-04-17 19:07:00,2026-04-19 11:07:00,2026-W15,Incident,P1,Closed,AP Portal,ATD,Service Portal,Engineer 11,Engineer 11,2.17,8,NA
+TCK-00727,2026-05-14 10:49:00,2026-05-16 08:49:00,2026-W19,Incident,P2,Closed,WMS,AC,Teams,Engineer 14,Engineer 14,4.72,24,NA
+TCK-00728,2026-06-03 13:54:00,,2026-W22,Hot Fix,P3,In Progress,SAP,ATD,Phone,Engineer 07,Engineer 15,5.82,72,NA
+TCK-00729,2026-05-05 15:19:00,2026-05-10 00:19:00,2026-W18,Service Request,P3,Resolved,WMS,ATD,Service Portal,Engineer 08,Engineer 08,11.93,72,NA
+TCK-00730,2026-06-03 09:00:00,,2026-W22,Hot Fix,P1,Pending,WMS,ATD,Monitoring,Engineer 09,Engineer 07,1.69,8,NA
+TCK-00731,2026-06-03 22:00:00,,2026-W22,Incident,P4,Pending,API Gateway,ATD,Email,Engineer 11,Engineer 16,27.56,120,NA
+TCK-00732,2026-06-01 18:00:00,,2026-W22,Service Request,P3,Open,HR System,ATD,Phone,Engineer 06,Engineer 07,6.3,72,NA
+TCK-00733,2026-05-30 10:00:00,2026-06-01 18:00:00,2026-W21,Incident,P4,Resolved,HR System,ATD II,Teams,Engineer 01,Engineer 01,13.95,120,NA
+TCK-00734,2026-06-03 13:00:00,,2026-W22,Incident,P2,In Progress,MES,ATD,Service Portal,Engineer 09,Engineer 03,4.59,24,NA
+TCK-00735,2026-06-03 04:00:00,,2026-W22,Incident,P3,In Progress,MES,ATJ,Phone,Engineer 12,Engineer 06,5.64,72,NA
+TCK-00736,2026-05-31 09:00:00,,2026-W22,Incident,P3,Pending,SAP,ATJ,Monitoring,Engineer 15,Engineer 09,9.51,72,NA
+TCK-00737,2026-05-13 10:07:00,2026-05-15 16:07:00,2026-W19,Change Request,P2,Closed,API Gateway,ATD,Teams,Engineer 18,Engineer 18,3.3,24,Emergency Change
+TCK-00738,2026-06-01 13:00:00,,2026-W22,Hot Fix,P1,Open,API Gateway,ATD II,Teams,Engineer 15,Engineer 15,0.89,8,NA
+TCK-00739,2026-05-10 12:22:00,2026-05-12 03:22:00,2026-W19,Incident,P4,Resolved,Finance System,ATD,Email,Engineer 06,Engineer 06,12.24,120,NA
+TCK-00740,2026-05-19 18:51:00,2026-05-23 18:51:00,2026-W20,Incident,P3,Resolved,Finance System,ATD,Email,Engineer 01,Engineer 01,7.22,72,NA
+TCK-00741,2026-06-04 13:00:00,,2026-W22,Change Request,P1,Pending,Quality System,ATJ,Teams,Engineer 08,Engineer 02,1.21,8,Normal Change
+TCK-00742,2026-06-04 01:00:00,,2026-W22,Incident,P3,Open,Finance System,ATD,Service Portal,Engineer 09,Engineer 18,7.11,72,NA
+TCK-00743,2026-06-02 20:00:00,,2026-W22,Incident,P2,Pending,MES,ATD II,Teams,Engineer 06,Engineer 16,3.86,24,NA
+TCK-00744,2026-03-23 14:01:00,2026-03-25 05:01:00,2026-W12,Incident,P2,Closed,API Gateway,AC,Service Portal,Engineer 07,Engineer 07,3.76,24,NA
+TCK-00745,2026-04-20 17:43:00,2026-04-26 22:43:00,2026-W16,Hot Fix,P4,Cancelled,HR System,ATD II,Monitoring,Engineer 06,Engineer 07,24.35,120,NA
+TCK-00746,2026-06-03 15:01:00,2026-06-03 18:01:00,2026-W22,Incident,P3,Cancelled,Finance System,ATJ,Teams,Engineer 08,Engineer 14,11.19,72,NA
+TCK-00747,2026-03-31 16:12:00,2026-04-02 11:12:00,2026-W13,Incident,P1,Resolved,SAP,ATJ,Email,Engineer 05,Engineer 05,0.86,8,NA
+TCK-00748,2026-05-31 12:00:00,,2026-W22,Incident,P3,Open,API Gateway,ATD,Phone,Engineer 11,Engineer 02,5.98,72,NA
+TCK-00749,2026-04-22 09:50:00,2026-04-24 12:50:00,2026-W16,Change Request,P2,Resolved,Quality System,ATD,Service Portal,Engineer 13,Engineer 13,3.8,24,Normal Change
+TCK-00750,2026-06-03 01:00:00,,2026-W22,Change Request,P3,In Progress,HR System,ATD II,Service Portal,Engineer 12,Engineer 13,4.86,72,Emergency Change
+TCK-00751,2026-04-02 14:18:00,2026-04-05 09:18:00,2026-W13,Incident,P3,Resolved,HR System,ATD II,Service Portal,Engineer 01,Engineer 01,3.74,72,NA
+TCK-00752,2026-05-30 18:00:00,,2026-W21,Incident,P4,In Progress,SAP,ATJ,Teams,Engineer 18,Engineer 11,23.05,120,NA
+TCK-00753,2026-04-12 17:17:00,2026-04-12 23:17:00,2026-W15,Incident,P3,Closed,WMS,ATJ,Teams,Engineer 08,Engineer 08,8.37,72,NA
+TCK-00754,2026-04-09 19:13:00,2026-04-10 20:13:00,2026-W14,Service Request,P2,Resolved,Quality System,AC,Monitoring,Engineer 03,Engineer 03,3.37,24,NA
+TCK-00755,2026-06-03 05:00:00,,2026-W22,Change Request,P3,Pending,MES,ATJ,Email,Engineer 06,Engineer 13,5.63,72,Normal Change
+TCK-00756,2026-05-30 03:00:00,,2026-W21,Hot Fix,P3,In Progress,MES,ATD II,Teams,Engineer 15,Engineer 15,11.87,72,NA
+TCK-00757,2026-04-11 16:17:00,2026-04-13 05:17:00,2026-W14,Change Request,P3,Resolved,SAP,ATJ,Teams,Engineer 09,Engineer 09,13.67,72,Standard Change
+TCK-00758,2026-03-18 08:05:00,2026-03-18 09:05:00,2026-W11,Change Request,P2,Resolved,Finance System,ATD II,Phone,Engineer 13,Engineer 13,2.68,24,Emergency Change
+TCK-00759,2026-05-31 05:00:00,,2026-W22,Change Request,P3,Pending,MES,ATD II,Monitoring,Engineer 16,Engineer 01,10.72,72,Standard Change
+TCK-00760,2026-05-25 08:15:00,2026-05-25 15:15:00,2026-W21,Incident,P2,Resolved,Quality System,ATD II,Teams,Engineer 12,Engineer 12,1.6,24,NA
+TCK-00761,2026-06-02 23:00:00,,2026-W22,Incident,P2,In Progress,Finance System,AC,Monitoring,Engineer 14,Engineer 18,3.74,24,NA
+TCK-00762,2026-06-04 13:00:00,,2026-W22,Incident,P1,Open,Finance System,ATD,Phone,Engineer 10,Engineer 13,0.89,8,NA
+TCK-00763,2026-05-08 10:40:00,2026-05-11 14:40:00,2026-W18,Change Request,P3,Closed,AP Portal,ATD II,Teams,Engineer 04,Engineer 04,15.28,72,Normal Change
+TCK-00764,2026-06-01 23:00:00,,2026-W22,Incident,P3,In Progress,AP Portal,ATD,Monitoring,Engineer 02,Engineer 17,13.13,72,NA
+TCK-00765,2026-05-29 02:00:00,,2026-W21,Change Request,P3,Pending,Quality System,ATD II,Phone,Engineer 07,Engineer 18,14.68,72,Standard Change
+TCK-00766,2026-06-01 04:00:00,,2026-W22,Incident,P3,In Progress,AP Portal,AC,Phone,Engineer 03,Engineer 15,4.29,72,NA
+TCK-00767,2026-04-17 14:07:00,2026-04-20 19:07:00,2026-W15,Incident,P3,Closed,API Gateway,ATD,Teams,Engineer 18,Engineer 18,12.75,72,NA
+TCK-00768,2026-03-25 14:50:00,2026-03-25 15:50:00,2026-W12,Service Request,P2,Resolved,MES,AC,Phone,Engineer 06,Engineer 06,1.34,24,NA
+TCK-00769,2026-06-03 23:00:00,,2026-W22,Change Request,P3,Pending,SAP,ATJ,Phone,Engineer 09,Engineer 01,9.0,72,Normal Change
+TCK-00770,2026-03-27 10:30:00,2026-03-28 14:30:00,2026-W12,Hot Fix,P3,Resolved,WMS,ATD,Monitoring,Engineer 14,Engineer 14,5.5,72,NA
+TCK-00771,2026-06-04 06:00:00,,2026-W22,Incident,P3,In Progress,MES,ATJ,Monitoring,Engineer 09,Engineer 06,6.98,72,NA
+TCK-00772,2026-06-02 08:00:00,,2026-W22,Incident,P3,In Progress,Finance System,ATJ,Phone,Engineer 09,Engineer 01,8.94,72,NA
+TCK-00773,2026-05-28 18:41:00,2026-05-28 19:41:00,2026-W21,Change Request,P4,Resolved,SAP,ATJ,Email,Engineer 09,Engineer 09,6.41,120,Standard Change
+TCK-00774,2026-04-01 14:35:00,2026-04-04 19:35:00,2026-W13,Service Request,P2,Closed,AP Portal,ATD II,Service Portal,Engineer 11,Engineer 11,6.78,24,NA
+TCK-00775,2026-04-26 13:14:00,2026-04-28 18:14:00,2026-W17,Incident,P4,Closed,MES,AC,Phone,Engineer 10,Engineer 10,13.18,120,NA
+TCK-00776,2026-04-06 08:19:00,2026-04-07 01:19:00,2026-W14,Incident,P1,Closed,HR System,ATD,Monitoring,Engineer 01,Engineer 01,1.29,8,NA
+TCK-00777,2026-06-03 16:00:00,,2026-W22,Service Request,P2,Open,API Gateway,ATD,Phone,Engineer 13,Engineer 02,3.51,24,NA
+TCK-00778,2026-05-03 09:51:00,2026-05-04 15:51:00,2026-W18,Service Request,P2,Resolved,MES,ATJ,Teams,Engineer 16,Engineer 16,2.81,24,NA
+TCK-00779,2026-06-03 20:00:00,,2026-W22,Incident,P3,Pending,Quality System,ATJ,Email,Engineer 17,Engineer 13,16.58,72,NA
+TCK-00780,2026-06-02 22:00:00,,2026-W22,Hot Fix,P4,In Progress,SAP,AC,Monitoring,Engineer 16,Engineer 05,20.4,120,NA
+TCK-00781,2026-06-02 21:00:00,,2026-W22,Incident,P3,Open,Finance System,ATD,Phone,Engineer 11,Engineer 07,2.19,72,NA
+TCK-00782,2026-05-30 06:00:00,,2026-W21,Incident,P3,Pending,AP Portal,AC,Email,Engineer 03,Engineer 14,4.99,72,NA
+TCK-00783,2026-03-18 10:02:00,2026-03-22 04:02:00,2026-W11,Incident,P3,Resolved,HR System,ATD,Teams,Engineer 03,Engineer 03,13.32,72,NA
+TCK-00784,2026-06-01 05:00:00,,2026-W22,Incident,P3,In Progress,MES,ATJ,Service Portal,Engineer 15,Engineer 10,14.93,72,NA
+TCK-00785,2026-03-24 15:29:00,2026-03-26 13:29:00,2026-W12,Service Request,P4,Cancelled,WMS,ATD,Service Portal,Engineer 06,Engineer 10,26.25,120,NA
+TCK-00786,2026-04-01 18:53:00,2026-04-04 11:53:00,2026-W13,Service Request,P3,Resolved,WMS,ATD,Monitoring,Engineer 14,Engineer 14,15.2,72,NA
+TCK-00787,2026-06-01 15:00:00,,2026-W22,Service Request,P3,Open,SAP,ATJ,Teams,Engineer 01,Engineer 12,2.9,72,NA
+TCK-00788,2026-05-10 10:14:00,2026-05-14 03:14:00,2026-W19,Service Request,P3,Closed,API Gateway,ATJ,Phone,Engineer 08,Engineer 08,10.92,72,NA
+TCK-00789,2026-05-30 04:00:00,,2026-W21,Incident,P4,Pending,SAP,ATD,Phone,Engineer 10,Engineer 04,15.39,120,NA
+TCK-00790,2026-04-24 19:23:00,2026-04-25 03:23:00,2026-W16,Incident,P4,Closed,SAP,ATJ,Phone,Engineer 04,Engineer 04,11.21,120,NA
+TCK-00791,2026-06-01 10:00:00,,2026-W22,Change Request,P3,Pending,MES,ATD,Monitoring,Engineer 08,Engineer 09,8.21,72,Normal Change
+TCK-00792,2026-05-24 19:00:00,,2026-W21,Incident,P4,In Progress,WMS,AC,Teams,Engineer 18,Engineer 16,16.41,120,NA
+TCK-00793,2026-03-17 14:57:00,2026-03-18 08:57:00,2026-W11,Incident,P1,Resolved,Finance System,ATD II,Email,Engineer 05,Engineer 05,1.68,8,NA
+TCK-00794,2026-05-22 12:37:00,2026-05-22 23:37:00,2026-W20,Hot Fix,P3,Closed,API Gateway,ATJ,Phone,Engineer 11,Engineer 11,9.51,72,NA
+TCK-00795,2026-05-09 08:16:00,2026-05-10 11:16:00,2026-W18,Incident,P3,Resolved,WMS,ATD,Email,Engineer 12,Engineer 12,14.59,72,NA
+TCK-00796,2026-06-01 08:00:00,,2026-W22,Service Request,P3,In Progress,WMS,ATJ,Monitoring,Engineer 15,Engineer 04,7.32,72,NA
+TCK-00797,2026-06-02 16:00:00,,2026-W22,Incident,P3,In Progress,Finance System,ATJ,Monitoring,Engineer 15,Engineer 08,3.83,72,NA
+TCK-00798,2026-05-19 10:51:00,2026-05-19 21:51:00,2026-W20,Service Request,P2,Closed,MES,ATD II,Monitoring,Engineer 15,Engineer 15,5.61,24,NA
+TCK-00799,2026-04-09 12:55:00,2026-04-14 07:55:00,2026-W14,Service Request,P4,Resolved,Quality System,ATD II,Service Portal,Engineer 03,Engineer 03,7.1,120,NA
+TCK-00800,2026-05-30 20:00:00,,2026-W21,Incident,P4,Pending,Quality System,AC,Email,Engineer 17,Engineer 12,13.75,120,NA
+TCK-00801,2026-06-04 13:00:00,,2026-W22,Incident,P2,Open,Quality System,AC,Service Portal,Engineer 03,Engineer 08,0.66,24,NA
+TCK-00802,2026-06-03 22:00:00,,2026-W22,Incident,P2,Pending,HR System,ATD II,Email,Engineer 16,Engineer 15,3.31,24,NA
+TCK-00803,2026-05-10 19:27:00,2026-05-11 18:27:00,2026-W19,Incident,P2,Closed,HR System,ATD,Phone,Engineer 13,Engineer 13,3.33,24,NA
+TCK-00804,2026-05-31 18:00:00,,2026-W22,Service Request,P4,Open,AP Portal,ATD,Email,Engineer 17,Engineer 08,16.29,120,NA
+TCK-00805,2026-05-30 22:00:00,,2026-W21,Change Request,P3,Pending,AP Portal,ATJ,Phone,Engineer 08,Engineer 10,14.11,72,Normal Change
+TCK-00806,2026-05-31 18:00:00,,2026-W22,Incident,P3,Pending,API Gateway,ATD II,Monitoring,Engineer 17,Engineer 02,13.53,72,NA
+TCK-00807,2026-06-01 04:00:00,,2026-W22,Hot Fix,P3,In Progress,AP Portal,ATD,Email,Engineer 06,Engineer 02,11.5,72,NA
+TCK-00808,2026-04-14 19:45:00,2026-04-19 06:45:00,2026-W15,Incident,P3,Resolved,SAP,ATD II,Email,Engineer 05,Engineer 05,3.57,72,NA
+TCK-00809,2026-03-28 11:13:00,2026-03-31 20:13:00,2026-W12,Incident,P3,Resolved,HR System,ATD II,Service Portal,Engineer 01,Engineer 01,1.11,72,NA
+TCK-00810,2026-05-10 11:14:00,2026-05-18 11:14:00,2026-W19,Service Request,P3,Closed,API Gateway,ATJ,Monitoring,Engineer 06,Engineer 06,12.12,72,NA
+TCK-00811,2026-03-20 19:21:00,2026-03-23 01:21:00,2026-W11,Change Request,P3,Resolved,HR System,AC,Monitoring,Engineer 02,Engineer 02,7.41,72,Normal Change
+TCK-00812,2026-06-02 06:00:00,,2026-W22,Incident,P2,In Progress,MES,ATJ,Email,Engineer 14,Engineer 17,2.43,24,NA
+TCK-00813,2026-06-04 07:00:00,,2026-W22,Service Request,P3,In Progress,API Gateway,AC,Phone,Engineer 18,Engineer 09,6.3,72,NA
+TCK-00814,2026-04-27 08:31:00,2026-05-01 02:31:00,2026-W17,Service Request,P3,Resolved,HR System,AC,Service Portal,Engineer 11,Engineer 11,8.24,72,NA
+TCK-00815,2026-06-02 04:00:00,,2026-W22,Incident,P2,Pending,API Gateway,ATD II,Email,Engineer 06,Engineer 04,4.56,24,NA
+TCK-00816,2026-06-02 12:00:00,,2026-W22,Service Request,P3,In Progress,MES,ATD II,Service Portal,Engineer 03,Engineer 05,13.88,72,NA
+TCK-00817,2026-06-02 20:00:00,,2026-W22,Change Request,P2,Pending,WMS,ATD II,Teams,Engineer 13,Engineer 14,0.25,24,Standard Change
+TCK-00818,2026-05-30 12:00:00,,2026-W21,Incident,P4,Open,API Gateway,AC,Phone,Engineer 07,Engineer 14,13.58,120,NA
+TCK-00819,2026-05-25 01:00:00,,2026-W21,Hot Fix,P4,Open,SAP,ATD II,Monitoring,Engineer 01,Engineer 12,17.95,120,NA
+TCK-00820,2026-05-31 19:00:00,,2026-W22,Incident,P3,Pending,Quality System,ATJ,Email,Engineer 07,Engineer 15,12.11,72,NA
+TCK-00821,2026-05-25 09:03:00,2026-05-26 07:03:00,2026-W21,Service Request,P4,Closed,MES,ATD II,Phone,Engineer 10,Engineer 10,24.51,120,NA
+TCK-00822,2026-04-08 11:57:00,2026-04-10 14:57:00,2026-W14,Change Request,P2,Closed,HR System,AC,Teams,Engineer 17,Engineer 17,1.87,24,Normal Change
+TCK-00823,2026-05-27 18:59:00,2026-05-29 22:59:00,2026-W21,Service Request,P2,Resolved,API Gateway,AC,Teams,Engineer 17,Engineer 17,4.45,24,NA
+TCK-00824,2026-06-03 06:00:00,,2026-W22,Service Request,P3,Open,AP Portal,ATJ,Monitoring,Engineer 13,Engineer 15,19.95,72,NA
+TCK-00825,2026-06-01 00:00:00,,2026-W22,Incident,P3,In Progress,API Gateway,ATD,Email,Engineer 12,Engineer 01,9.5,72,NA
+TCK-00826,2026-06-01 23:00:00,,2026-W22,Incident,P4,Open,AP Portal,ATD,Service Portal,Engineer 04,Engineer 06,28.1,120,NA
+TCK-00827,2026-05-04 08:12:00,2026-05-06 22:12:00,2026-W18,Service Request,P3,Resolved,MES,ATD,Teams,Engineer 05,Engineer 05,11.62,72,NA
+TCK-00828,2026-05-30 23:00:00,,2026-W21,Incident,P4,Pending,SAP,ATD II,Monitoring,Engineer 14,Engineer 03,15.11,120,NA
+TCK-00829,2026-06-04 13:00:00,,2026-W22,Incident,P4,In Progress,SAP,ATD,Service Portal,Engineer 04,Engineer 05,13.8,120,NA
+TCK-00830,2026-05-12 08:52:00,2026-05-13 09:52:00,2026-W19,Incident,P4,Closed,WMS,ATD,Teams,Engineer 02,Engineer 02,8.23,120,NA
+TCK-00831,2026-05-15 16:49:00,2026-05-17 04:49:00,2026-W19,Incident,P1,Closed,API Gateway,AC,Email,Engineer 10,Engineer 10,1.92,8,NA
+TCK-00832,2026-04-09 14:16:00,2026-04-12 01:16:00,2026-W14,Service Request,P3,Resolved,API Gateway,ATD II,Service Portal,Engineer 08,Engineer 08,7.54,72,NA
+TCK-00833,2026-03-29 12:10:00,2026-03-30 23:10:00,2026-W13,Service Request,P3,Closed,SAP,AC,Email,Engineer 03,Engineer 03,8.79,72,NA
+TCK-00834,2026-05-13 11:39:00,2026-05-15 11:39:00,2026-W19,Incident,P4,Resolved,WMS,ATD,Email,Engineer 08,Engineer 08,14.65,120,NA
+TCK-00835,2026-05-08 19:13:00,2026-05-09 10:13:00,2026-W18,Change Request,P3,Closed,Quality System,AC,Monitoring,Engineer 12,Engineer 12,0.25,72,Standard Change
+TCK-00836,2026-06-04 05:00:00,,2026-W22,Service Request,P4,In Progress,Finance System,ATD,Teams,Engineer 04,Engineer 17,7.04,120,NA
+TCK-00837,2026-03-31 08:30:00,2026-04-11 01:30:00,2026-W13,Service Request,P4,Closed,SAP,ATD II,Phone,Engineer 14,Engineer 14,19.33,120,NA
+TCK-00838,2026-03-17 17:03:00,2026-03-18 04:03:00,2026-W11,Incident,P4,Closed,Finance System,ATJ,Monitoring,Engineer 14,Engineer 14,15.24,120,NA
+TCK-00839,2026-06-04 08:00:00,,2026-W22,Change Request,P2,Open,SAP,AC,Phone,Engineer 17,Engineer 05,5.75,24,Emergency Change
+TCK-00840,2026-04-06 11:14:00,2026-04-09 02:14:00,2026-W14,Service Request,P3,Resolved,MES,ATD,Service Portal,Engineer 09,Engineer 09,9.37,72,NA
+TCK-00841,2026-06-02 13:00:00,,2026-W22,Hot Fix,P3,In Progress,AP Portal,ATD,Monitoring,Engineer 09,Engineer 03,19.91,72,NA
+TCK-00842,2026-06-01 22:00:00,,2026-W22,Service Request,P3,In Progress,SAP,ATD II,Service Portal,Engineer 13,Engineer 15,15.81,72,NA
+TCK-00843,2026-05-29 19:00:00,,2026-W21,Incident,P4,Open,API Gateway,ATD,Teams,Engineer 05,Engineer 04,20.03,120,NA
+TCK-00844,2026-06-01 01:00:00,,2026-W22,Hot Fix,P3,In Progress,Finance System,ATJ,Teams,Engineer 05,Engineer 05,11.7,72,NA
+TCK-00845,2026-04-16 09:34:00,2026-04-20 07:34:00,2026-W15,Change Request,P4,Closed,SAP,ATD,Email,Engineer 02,Engineer 02,22.75,120,Normal Change
+TCK-00846,2026-03-20 15:53:00,2026-03-23 16:53:00,2026-W11,Service Request,P2,Closed,SAP,ATD,Email,Engineer 10,Engineer 10,3.93,24,NA
+TCK-00847,2026-05-21 12:48:00,2026-05-22 07:48:00,2026-W20,Change Request,P2,Closed,Finance System,ATD II,Service Portal,Engineer 09,Engineer 09,0.71,24,Emergency Change
+TCK-00848,2026-05-30 06:00:00,,2026-W21,Hot Fix,P4,Pending,AP Portal,ATD,Phone,Engineer 05,Engineer 13,12.9,120,NA
+TCK-00849,2026-06-01 02:00:00,,2026-W22,Service Request,P4,Pending,HR System,AC,Service Portal,Engineer 01,Engineer 09,25.34,120,NA
+TCK-00850,2026-06-04 00:00:00,,2026-W22,Incident,P3,Open,API Gateway,ATD II,Monitoring,Engineer 07,Engineer 13,12.75,72,NA
+TCK-00851,2026-05-28 16:00:00,,2026-W21,Incident,P3,Pending,MES,ATD,Email,Engineer 01,Engineer 09,12.34,72,NA
+TCK-00852,2026-05-10 16:12:00,2026-05-12 04:12:00,2026-W19,Service Request,P3,Resolved,WMS,ATD,Email,Engineer 03,Engineer 03,10.32,72,NA
+TCK-00853,2026-05-31 23:00:00,,2026-W22,Service Request,P3,Open,Quality System,ATD,Service Portal,Engineer 17,Engineer 03,11.3,72,NA
+TCK-00854,2026-03-23 16:40:00,2026-03-27 06:40:00,2026-W12,Service Request,P4,Resolved,WMS,ATD,Monitoring,Engineer 01,Engineer 01,18.63,120,NA
+TCK-00855,2026-04-07 18:49:00,2026-04-09 05:49:00,2026-W14,Incident,P2,Resolved,SAP,ATJ,Service Portal,Engineer 08,Engineer 08,1.29,24,NA
+TCK-00856,2026-06-01 07:00:00,,2026-W22,Service Request,P3,Open,API Gateway,ATD,Service Portal,Engineer 05,Engineer 17,6.71,72,NA
+TCK-00857,2026-03-31 16:24:00,2026-03-31 21:24:00,2026-W13,Service Request,P4,Resolved,WMS,ATD,Teams,Engineer 09,Engineer 09,18.85,120,NA
+TCK-00858,2026-06-02 22:00:00,,2026-W22,Incident,P4,In Progress,WMS,ATJ,Teams,Engineer 18,Engineer 06,14.17,120,NA
+TCK-00859,2026-06-04 10:00:00,,2026-W22,Service Request,P2,In Progress,Quality System,ATD,Teams,Engineer 11,Engineer 08,1.42,24,NA
+TCK-00860,2026-05-11 13:11:00,2026-05-12 08:11:00,2026-W19,Service Request,P3,Resolved,AP Portal,ATD,Service Portal,Engineer 09,Engineer 09,3.94,72,NA
+TCK-00861,2026-06-03 20:00:00,,2026-W22,Hot Fix,P2,In Progress,SAP,ATD,Service Portal,Engineer 15,Engineer 08,4.22,24,NA
+TCK-00862,2026-06-02 11:00:00,,2026-W22,Change Request,P3,Open,WMS,ATD,Teams,Engineer 03,Engineer 04,10.61,72,Standard Change
+TCK-00863,2026-06-02 21:00:00,,2026-W22,Service Request,P2,Pending,SAP,ATD II,Phone,Engineer 04,Engineer 06,3.3,24,NA
+TCK-00864,2026-04-18 09:29:00,2026-04-23 00:29:00,2026-W15,Service Request,P2,Closed,Quality System,AC,Email,Engineer 12,Engineer 12,3.73,24,NA
+TCK-00865,2026-05-03 12:02:00,2026-05-04 12:02:00,2026-W18,Change Request,P3,Closed,MES,AC,Monitoring,Engineer 15,Engineer 15,7.96,72,Normal Change
+TCK-00866,2026-03-24 09:39:00,2026-03-24 10:39:00,2026-W12,Incident,P3,Closed,HR System,ATD,Teams,Engineer 14,Engineer 14,16.35,72,NA
+TCK-00867,2026-05-31 07:00:00,,2026-W22,Incident,P3,In Progress,WMS,ATJ,Monitoring,Engineer 03,Engineer 15,3.95,72,NA
+TCK-00868,2026-06-02 06:00:00,,2026-W22,Hot Fix,P2,In Progress,MES,ATD,Teams,Engineer 12,Engineer 05,2.1,24,NA
+TCK-00869,2026-04-12 15:26:00,2026-04-14 09:26:00,2026-W15,Change Request,P3,Resolved,Finance System,ATD,Teams,Engineer 02,Engineer 02,2.16,72,Emergency Change
+TCK-00870,2026-05-07 10:26:00,2026-05-09 14:26:00,2026-W18,Change Request,P2,Resolved,WMS,ATD II,Service Portal,Engineer 04,Engineer 04,4.38,24,Emergency Change
+TCK-00871,2026-05-31 14:00:00,,2026-W22,Service Request,P3,Pending,MES,ATD II,Email,Engineer 04,Engineer 07,10.93,72,NA
+TCK-00872,2026-06-03 00:00:00,,2026-W22,Incident,P2,Open,WMS,ATD,Teams,Engineer 03,Engineer 11,4.34,24,NA
+TCK-00873,2026-05-27 19:00:00,,2026-W21,Service Request,P3,In Progress,MES,ATD,Service Portal,Engineer 10,Engineer 06,8.28,72,NA
+TCK-00874,2026-05-28 23:00:00,,2026-W21,Incident,P3,Pending,SAP,AC,Monitoring,Engineer 07,Engineer 01,16.97,72,NA
+TCK-00875,2026-04-14 16:18:00,2026-04-16 17:18:00,2026-W15,Service Request,P3,Closed,AP Portal,ATD,Phone,Engineer 02,Engineer 02,15.28,72,NA
+TCK-00876,2026-05-06 17:10:00,2026-05-06 23:10:00,2026-W18,Incident,P2,Resolved,SAP,ATJ,Monitoring,Engineer 08,Engineer 08,1.5,24,NA
+TCK-00877,2026-05-29 19:00:00,,2026-W21,Incident,P4,In Progress,AP Portal,ATJ,Teams,Engineer 04,Engineer 12,20.4,120,NA
+TCK-00878,2026-05-30 12:48:00,2026-06-01 06:48:00,2026-W21,Incident,P3,Closed,Finance System,ATJ,Monitoring,Engineer 16,Engineer 16,5.73,72,NA
+TCK-00879,2026-05-23 12:50:00,2026-05-26 06:50:00,2026-W20,Service Request,P3,Closed,HR System,ATD II,Monitoring,Engineer 02,Engineer 02,16.04,72,NA
+TCK-00880,2026-05-31 19:49:00,2026-06-01 09:49:00,2026-W22,Hot Fix,P2,Resolved,MES,AC,Monitoring,Engineer 16,Engineer 16,5.85,24,NA
